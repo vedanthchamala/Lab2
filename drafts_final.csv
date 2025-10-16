@@ -1,0 +1,1546 @@
+year_drafted,Pick,Player,Pos,completions,passAtt,passYds,passTDs,passInt,rushAtt,rushYds,rushTDs,receptions,recYds,recTDs,sacks,college,recInts,draft_round
+2018,1,Baker Mayfield,QB,2269,3567,26115,181,91,330,1345,10,1,17,0,NA,Oklahoma,NA,1
+2018,2,Saquon Barkley,RB,0,0,0,0,0,1629,7483,51,338,2506,15,NA,Penn St.,NA,1
+2018,3,Sam Darnold,QB,1541,2490,17629,107,71,279,1010,14,0,0,0,NA,USC,NA,1
+2018,4,Denzel Ward,CB,0,0,0,0,0,0,0,0,0,0,0,0.5,Ohio St.,18,1
+2018,5,Bradley Chubb,DE,0,0,0,0,0,0,0,0,0,0,0,43.5,North Carolina St.,1,1
+2018,6,Quenton Nelson,G,0,0,0,0,0,1,0,0,0,0,0,NA,Notre Dame,NA,1
+2018,7,Josh Allen,QB,2403,3780,27651,204,86,799,4354,68,1,19,2,NA,Wyoming,NA,1
+2018,8,Roquan Smith,ILB,0,0,0,0,0,0,0,0,0,0,0,21.5,Georgia,10,1
+2018,9,Mike McGlinchey,T,0,0,0,0,0,0,0,0,0,0,0,NA,Notre Dame,NA,1
+2018,10,Josh Rosen,QB,277,513,2864,12,21,26,151,0,0,0,0,NA,UCLA,NA,1
+2018,11,Minkah Fitzpatrick,S,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,21,1
+2018,12,Vita Vea,DT,0,0,0,0,0,0,0,0,1,1,1,32.5,Washington,NA,1
+2018,13,Daron Payne,DT,0,0,0,0,0,0,0,0,0,0,0,35,Alabama,1,1
+2018,14,Marcus Davenport,DE,0,0,0,0,0,0,0,0,0,0,0,25,Texas-San Antonio,NA,1
+2018,15,Kolton Miller,T,0,0,0,0,0,0,0,0,0,0,0,NA,UCLA,NA,1
+2018,16,Tremaine Edmunds,ILB,0,0,0,0,0,0,0,0,0,0,0,7.5,Virginia Tech,12,1
+2018,17,Derwin James,S,0,0,0,0,0,0,0,0,0,0,0,18.5,Florida St.,9,1
+2018,18,Jaire Alexander,CB,0,0,0,0,0,0,0,0,0,0,0,1.5,Louisville,12,1
+2018,19,Leighton Vander Esch,OLB,0,0,0,0,0,0,0,0,0,0,0,3.5,Boise St.,3,1
+2018,20,Frank Ragnow,C,0,0,0,0,0,0,0,0,0,0,0,NA,Arkansas,NA,1
+2018,21,Billy Price,C,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,1
+2018,22,Rashaan Evans,ILB,0,0,0,0,0,0,0,0,0,0,0,5,Alabama,2,1
+2018,23,Isaiah Wynn,T,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,1
+2018,24,D.J. Moore,WR,0,2,0,0,0,63,446,1,574,7704,36,NA,Maryland,NA,1
+2018,25,Hayden Hurst,TE,0,0,0,0,0,1,0,0,203,1975,15,NA,South Carolina,NA,1
+2018,26,Calvin Ridley,WR,0,0,0,0,0,30,140,1,403,5647,40,NA,Alabama,NA,1
+2018,27,Rashaad Penny,RB,0,0,0,0,0,348,1951,13,28,227,1,NA,San Diego St.,NA,1
+2018,28,Terrell Edmunds,S,0,0,0,0,0,0,0,0,0,0,0,7.5,Virginia Tech,6,1
+2018,29,Taven Bryan,DT,0,0,0,0,0,0,0,0,0,0,0,11.5,Florida,NA,1
+2018,30,Mike Hughes,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Central Florida,3,1
+2018,31,Sony Michel,RB,0,0,0,0,0,779,3243,18,56,439,2,NA,Georgia,NA,1
+2018,32,Lamar Jackson,QB,1746,2681,20928,176,50,1035,6339,34,0,0,0,NA,Louisville,NA,1
+2018,33,Austin Corbett,C,0,0,0,0,0,0,0,0,0,0,0,NA,Nevada,NA,2
+2018,34,Will Hernandez,G,0,0,0,0,0,0,0,0,0,0,0,NA,Texas-El Paso,NA,2
+2018,35,Nick Chubb,RB,0,0,0,0,0,1398,7092,53,135,1088,5,NA,Georgia,NA,2
+2018,36,Shaquille Leonard,LB,0,0,0,0,0,0,0,0,0,0,0,16,South Carolina St.,12,2
+2018,37,Braden Smith,G,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,NA,2
+2018,38,Ronald Jones II,RB,0,0,0,0,0,505,2244,19,77,593,1,NA,USC,NA,2
+2018,39,James Daniels,C,0,0,0,0,0,0,0,0,0,0,0,NA,Iowa,NA,2
+2018,40,Courtland Sutton,WR,4,4,84,1,0,5,21,0,405,5705,35,NA,SMU,NA,2
+2018,41,Harold Landry,OLB,0,0,0,0,0,0,0,0,0,0,0,54,Boston Col.,2,2
+2018,42,Mike Gesicki,TE,0,1,0,0,0,0,0,0,333,3587,22,NA,Penn St.,NA,2
+2018,43,Kerryon Johnson,RB,0,0,0,0,0,283,1225,8,61,527,3,NA,Auburn,NA,2
+2018,44,Dante Pettis,WR,2,2,32,0,0,3,35,0,83,1104,13,NA,Washington,NA,2
+2018,45,Josh Jackson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Iowa,NA,2
+2018,46,Breeland Speaks,DE,0,0,0,0,0,0,0,0,0,0,0,1.5,Mississippi,NA,2
+2018,47,Christian Kirk,WR,2,4,32,0,0,22,159,0,414,5285,29,NA,Texas A&M,NA,2
+2018,48,Uchenna Nwosu,OLB,0,0,0,0,0,0,0,0,0,0,0,30,USC,1,2
+2018,49,Dallas Goedert,TE,0,0,0,0,0,1,1,0,364,4218,28,NA,South Dakota St.,NA,2
+2018,50,Connor Williams,T,0,0,0,0,0,0,0,0,0,0,0,NA,Texas,NA,2
+2018,51,Anthony Miller,WR,1,1,8,0,0,9,37,0,141,1605,12,NA,Memphis,NA,2
+2018,52,Kemoko Turay,OLB,0,0,0,0,0,0,0,0,0,0,0,12,Rutgers,NA,2
+2018,53,M.J. Stewart,CB,0,0,0,0,0,1,3,0,0,0,0,1,North Carolina,2,2
+2018,54,Jessie Bates III,S,0,0,0,0,0,0,0,0,0,0,0,1,Wake Forest,24,2
+2018,55,Donte Jackson,CB,0,0,0,0,0,0,0,0,0,0,0,1,LSU,20,2
+2018,56,Duke Dawson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,NA,2
+2018,57,P.J. Hall,DT,0,0,0,0,0,0,0,0,0,0,0,2.5,Sam Houston St.,NA,2
+2018,58,Isaiah Oliver,CB,0,0,0,0,0,0,0,0,0,0,0,3,Colorado,3,2
+2018,59,Derrius Guice,RB,0,0,0,0,0,42,245,2,7,79,1,NA,LSU,NA,2
+2018,60,James Washington,WR,0,0,0,0,0,2,13,0,114,1629,11,NA,Oklahoma St.,NA,2
+2018,61,DJ Chark,WR,0,0,0,0,0,2,20,0,216,3100,24,NA,LSU,NA,2
+2018,62,Brian O'Neill,T,0,0,0,0,0,0,0,0,0,0,0,NA,Pittsburgh,NA,2
+2018,63,Carlton Davis,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,11,2
+2018,64,Tyquan Lewis,DE,0,0,0,0,0,0,0,0,0,0,0,18,Ohio St.,1,2
+2018,65,Brandon Parker,T,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina A&T,NA,3
+2018,66,Lorenzo Carter,DE,0,0,0,0,0,0,0,0,0,0,0,21.5,Georgia,2,3
+2018,67,Chad Thomas,DE,0,0,0,0,0,0,0,0,0,0,0,4,Miami (FL),NA,3
+2018,68,Justin Reid,S,0,0,0,0,0,0,0,0,0,0,0,6,Stanford,10,3
+2018,69,B.J. Hill,DT,0,0,0,0,0,0,0,0,0,0,0,24.5,North Carolina St.,2,3
+2018,70,Fred Warner,OLB,0,0,0,0,0,0,0,0,0,0,0,10,BYU,10,3
+2018,71,Royce Freeman,RB,0,0,0,0,0,471,1792,10,86,532,1,NA,Oregon,NA,3
+2018,72,Nathan Shepherd,DT,0,0,0,0,0,0,0,0,0,0,0,11,Fort Hays St.,NA,3
+2018,73,Jerome Baker,OLB,0,0,0,0,0,0,0,0,0,0,0,24.5,Ohio St.,5,3
+2018,74,Geron Christian,T,0,0,0,0,0,0,0,0,0,0,0,NA,Louisville,NA,3
+2018,75,Derrick Nnadi,DT,0,0,0,0,0,0,0,0,0,0,0,5,Florida St.,1,3
+2018,76,Mason Rudolph,QB,439,688,4627,28,20,68,203,1,0,0,0,NA,Oklahoma St.,NA,3
+2018,77,Sam Hubbard,DE,0,0,0,0,0,0,0,0,1,2,1,38.5,Ohio St.,1,3
+2018,78,Malik Jefferson,OLB,0,0,0,0,0,0,0,0,0,0,0,NA,Texas,NA,3
+2018,79,Rasheem Green,DT,0,0,0,0,0,0,0,0,0,0,0,19,USC,NA,3
+2018,80,Martinas Rankin,T,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,3
+2018,81,Michael Gallup,WR,0,0,0,0,0,0,0,0,266,3744,21,NA,Colorado St.,NA,3
+2018,82,Tracy Walker,S,0,0,0,0,0,0,0,0,0,0,0,4,Louisiana,3,3
+2018,83,Orlando Brown Jr.,T,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,3
+2018,84,Justin Jones,DT,0,0,0,0,0,0,0,0,0,0,0,12,North Carolina St.,NA,3
+2018,85,Rashaan Gaulden,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Tennessee,NA,3
+2018,86,Mark Andrews,TE,0,0,0,0,0,10,15,0,453,5680,53,NA,Oklahoma,NA,3
+2018,87,Arden Key,DE,0,0,0,0,0,0,0,0,0,0,0,28,LSU,NA,3
+2018,88,Oren Burks,ILB,0,0,0,0,0,0,0,0,0,0,0,2,Vanderbilt,1,3
+2018,89,Joseph Noteboom,T,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,NA,3
+2018,90,Deadrin Senat,DT,0,0,0,0,0,0,0,0,0,0,0,1,South Florida,NA,3
+2018,91,Tre'Quan Smith,WR,0,0,0,0,0,1,3,0,131,1764,18,NA,Central Florida,NA,3
+2018,92,Chukwuma Okorafor,T,0,0,0,0,0,0,0,0,0,0,0,NA,Western Michigan,NA,3
+2018,93,Ronnie Harrison,S,0,0,0,0,0,0,0,0,0,0,0,6.5,Alabama,7,3
+2018,94,Alex Cappa,T,0,0,0,0,0,0,0,0,0,0,0,NA,Humboldt St.,NA,3
+2018,95,Tarvarius Moore,S,0,0,0,0,0,0,0,0,0,0,0,NA,Southern Miss,NA,3
+2018,96,Harrison Phillips,DT,0,0,0,0,0,0,0,0,0,0,0,8.5,Stanford,NA,3
+2018,97,Mason Cole,C,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,3
+2018,98,Jordan Akins,TE,0,0,0,0,0,2,7,0,206,2277,10,NA,Central Florida,NA,3
+2018,99,Isaac Yiadom,CB,0,0,0,0,0,0,0,0,0,0,0,0.5,Boston Col.,3,3
+2018,100,Dorian O'Daniel,OLB,0,0,0,0,0,0,0,0,0,0,0,1,Clemson,NA,3
+2018,101,Ian Thomas,TE,0,0,0,0,0,0,0,0,122,1082,4,NA,Indiana,NA,4
+2018,102,Jalyn Holmes,DE,0,0,0,0,0,0,0,0,0,0,0,4,Ohio St.,NA,4
+2018,103,Keke Coutee,WR,0,0,0,0,0,5,14,1,85,966,4,NA,Texas Tech,NA,4
+2018,104,Nyheim Hines,RB,0,0,0,0,0,306,1202,10,240,1778,8,NA,North Carolina St.,NA,4
+2018,105,Antonio Callaway,WR,0,0,0,0,0,2,7,0,53,695,5,NA,Florida,NA,4
+2018,106,Josey Jewell,ILB,0,0,0,0,0,0,0,0,0,0,0,12.5,Iowa,3,4
+2018,107,Chris Herndon,TE,0,0,0,0,0,0,0,0,75,836,8,NA,Miami (FL),NA,4
+2018,108,Kyle Lauletta,QB,0,5,0,0,1,1,-2,0,0,0,0,NA,Richmond,NA,4
+2018,109,Troy Apke,S,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,1,4
+2018,110,Nick Nelson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,4
+2018,111,Brian Allen,C,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan St.,NA,4
+2018,112,Mark Walton,RB,0,0,0,0,0,67,235,0,20,130,0,NA,Miami (FL),NA,4
+2018,113,DaeSean Hamilton,WR,0,0,0,0,0,0,0,0,81,833,5,NA,Penn St.,NA,4
+2018,114,Da'Shawn Hand,DE,0,0,0,0,0,0,0,0,0,0,0,6,Alabama,NA,4
+2018,115,Joel Iyiegbuniwe,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Western Kentucky,NA,4
+2018,116,Dorance Armstrong Jr.,DE,0,0,0,0,0,0,0,0,0,0,0,33.5,Kansas,NA,4
+2018,117,Jordan Whitehead,S,0,0,0,0,0,0,0,0,0,0,0,2.5,Pittsburgh,11,4
+2018,118,Anthony Averett,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,3,4
+2018,119,Kyzir White,S,0,0,0,0,0,0,0,0,0,0,0,7.5,West Virginia,6,4
+2018,120,Will Dissly,TE,0,0,0,0,0,1,7,0,179,1927,15,NA,Washington,NA,4
+2018,121,Taron Johnson,CB,0,0,0,0,0,0,0,0,0,0,0,8,Weber St.,6,4
+2018,122,Kenny Young,LB,0,0,0,0,0,0,0,0,0,0,0,5.5,UCLA,1,4
+2018,123,Durham Smythe,TE,0,0,0,0,0,4,4,1,132,1228,3,NA,Notre Dame,NA,4
+2018,124,Armani Watts,S,0,0,0,0,0,0,0,0,0,0,0,2,Texas A&M,NA,4
+2018,125,Avonte Maddox,CB,0,0,0,0,0,0,0,0,0,0,0,3,Pittsburgh,4,4
+2018,126,Ito Smith,RB,0,0,0,0,0,176,693,7,55,314,0,NA,Southern Miss,NA,4
+2018,127,Rick Leonard,T,0,0,0,0,0,0,0,0,0,0,0,NA,Florida St.,NA,4
+2018,128,Kentavius Street,DT,0,0,0,0,0,0,0,0,0,0,0,8.5,North Carolina St.,NA,4
+2018,129,Will Richardson,T,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina St.,NA,4
+2018,130,Josh Sweat,DE,0,0,0,0,0,0,0,0,0,0,0,48,Florida St.,1,4
+2018,131,Kalen Ballage,RB,0,0,0,0,0,213,665,7,54,293,0,NA,Arizona St.,NA,4
+2018,132,Jaleel Scott,WR,0,0,0,0,0,0,0,0,2,22,0,NA,New Mexico St.,NA,4
+2018,133,J'Mon Moore,WR,0,0,0,0,0,0,0,0,2,15,0,NA,Missouri,NA,4
+2018,134,Chase Edmonds,RB,0,0,0,0,0,450,1972,11,158,1159,6,NA,Fordham,NA,4
+2018,135,John Franklin-Myers,DE,0,0,0,0,0,0,0,0,0,0,0,28.5,S.F. Austin,1,4
+2018,136,Marquis Haynes,OLB,0,0,0,0,0,0,0,0,0,0,0,14,Mississippi,NA,4
+2018,137,Dalton Schultz,TE,0,0,0,0,0,0,0,0,344,3475,24,NA,Stanford,NA,4
+2018,138,Cole Madison,G,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Washington St.,NA,5
+2018,139,R.J. McIntosh,DT,0,0,0,0,0,0,0,0,0,0,0,2,Miami (FL),NA,5
+2018,140,Maurice Hurst Jr.,DT,0,0,0,0,0,0,0,0,0,0,0,10,Michigan,2,5
+2018,141,Shaquem Griffin,OLB,0,0,0,0,0,0,0,0,0,0,0,1,Central Florida,NA,5
+2018,142,D.J. Reed,CB,0,0,0,0,0,0,0,0,0,0,0,2,Kansas St.,7,5
+2018,143,Ja'Whaun Bentley,ILB,0,0,0,0,0,0,0,0,0,0,0,10.5,Purdue,2,5
+2018,144,Justin Watson,WR,0,0,0,0,0,0,0,0,90,1352,9,1,Pennsylvania,NA,5
+2018,145,Bilal Nichols,DT,0,0,0,0,0,0,0,0,0,0,0,14,Delaware,1,5
+2018,146,Tre Flowers,S,0,0,0,0,0,0,0,0,0,0,0,2,Oklahoma St.,4,5
+2018,147,Micah Kiser,ILB,0,0,0,0,0,0,0,0,0,0,0,NA,Virginia,NA,5
+2018,148,Marcus Allen,S,0,0,0,0,0,1,4,0,0,0,0,NA,Penn St.,NA,5
+2018,149,Michael Dickson,P,0,0,0,0,0,3,-9,0,0,0,0,NA,Texas,NA,5
+2018,150,Genard Avery,LB,0,0,0,0,0,0,0,0,0,0,0,8.5,Memphis,NA,5
+2018,151,Davontae Harris,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Illinois St.,NA,5
+2018,152,Dane Cruikshank,CB,0,0,0,0,0,0,0,0,1,66,1,NA,Arizona,1,5
+2018,153,Tyrell Crosby,T,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,5
+2018,154,Siran Neal,CB,0,0,0,0,0,0,0,0,1,13,0,1,Jacksonville St.,NA,5
+2018,155,Scott Quessenberry,C,0,0,0,0,0,0,0,0,0,0,0,NA,UCLA,NA,5
+2018,156,Troy Fumagalli,TE,0,0,0,0,0,0,0,0,14,118,2,NA,Wisconsin,NA,5
+2018,157,Tyler Conklin,TE,0,0,0,0,0,5,5,0,268,2627,11,NA,Central Michigan,NA,5
+2018,158,Andrew Brown,DE,0,0,0,0,0,0,0,0,0,0,0,1,Virginia,NA,5
+2018,159,Daurice Fountain,WR,0,0,0,0,0,0,0,0,2,23,0,NA,Northern Iowa,NA,5
+2018,160,Ogbonnia Okoronkwo,DE,0,0,0,0,0,0,0,0,0,0,0,17,Oklahoma,NA,5
+2018,161,Jermaine Carter Jr.,LB,0,0,0,0,0,0,0,0,0,0,0,0.5,Maryland,NA,5
+2018,162,Jordan Lasley,WR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,UCLA,NA,5
+2018,163,Tim Settle,DT,0,0,0,0,0,0,0,0,0,0,0,14,Virginia Tech,NA,5
+2018,164,Natrell Jamerson,S,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,5
+2018,165,Jaylen Samuels,TE,4,5,35,0,1,136,468,1,85,564,4,NA,North Carolina St.,NA,5
+2018,166,Wyatt Teller,G,0,0,0,0,0,0,0,0,1,-5,0,NA,Virginia Tech,NA,5
+2018,167,Daniel Carlson,K,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,NA,5
+2018,168,Jamarco Jones,T,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,5
+2018,169,Jordan Wilkins,RB,0,0,0,0,0,208,1009,4,41,262,0,NA,Mississippi,NA,5
+2018,170,Darius Phillips,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Western Michigan,5,5
+2018,171,Mike White,QB,199,324,2247,9,13,19,-1,1,0,0,0,NA,Western Kentucky,NA,5
+2018,172,JK Scott,P,1,2,3,0,0,1,0,0,0,0,0,NA,Alabama,NA,5
+2018,173,Johnny Townsend,P,0,0,0,0,0,1,42,0,0,0,0,NA,Florida,NA,5
+2018,174,Marquez Valdes-Scantling,WR,0,0,0,0,0,10,52,0,207,3584,20,NA,South Florida,NA,5
+2018,175,Damion Ratley,WR,0,0,0,0,0,0,0,0,29,407,1,NA,Texas A&M,NA,6
+2018,176,John Kelly,RB,0,0,0,0,0,32,96,0,2,27,0,NA,Tennessee,NA,6
+2018,177,Duke Ejiofor,DE,0,0,0,0,0,0,0,0,0,0,0,1,Wake Forest,NA,6
+2018,178,Christian Sam,ILB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arizona St.,NA,6
+2018,179,Parry Nickerson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Tulane,NA,6
+2018,180,Folorunso Fatukasi,DT,0,0,0,0,0,0,0,0,0,0,0,7,Connecticut,NA,6
+2018,181,Kylie Fitts,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,NA,6
+2018,182,Christian Campbell,CB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Penn St.,NA,6
+2018,183,Sam Jones,G,0,0,0,0,0,0,0,0,0,0,0,NA,Arizona St.,NA,6
+2018,184,Marcell Harris,S,0,0,0,0,0,0,0,0,0,0,0,1,Florida,1,6
+2018,185,Deon Cain,WR,0,0,0,0,0,0,0,0,9,124,0,NA,Clemson,NA,6
+2018,186,Jacob Martin,LB,0,0,0,0,0,0,0,0,0,0,0,22,Temple,NA,6
+2018,187,Ray-Ray McCloud,WR,0,0,0,0,0,25,271,1,158,1518,2,NA,Clemson,NA,6
+2018,188,Simeon Thomas,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Louisiana,NA,6
+2018,189,Kamrin Moore,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Boston Col.,NA,6
+2018,190,DeShon Elliott,S,0,0,0,0,0,0,0,0,0,0,0,4.5,Texas,5,6
+2018,191,Dylan Cantrell,WR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Texas Tech,NA,6
+2018,192,Jamil Demby,T,0,0,0,0,0,0,0,0,0,0,0,NA,Maine,NA,6
+2018,193,Chris Covington,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Indiana,NA,6
+2018,194,Russell Gage,WR,1,2,39,1,0,6,21,0,244,2491,14,NA,LSU,NA,6
+2018,195,Sebastian Joseph-Day,DT,0,0,0,0,0,0,0,0,0,0,0,14.5,Rutgers,1,6
+2018,196,Tremon Smith,WR,0,0,0,0,0,1,7,0,0,0,0,NA,Central Arkansas,2,6
+2018,197,Shaun Dion Hamilton,LB,0,0,0,0,0,0,0,0,0,0,0,2.5,Alabama,1,6
+2018,198,Kahlil McKenzie,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Tennessee,NA,6
+2018,199,Luke Falk,QB,47,73,416,0,3,0,0,0,0,0,0,NA,Washington St.,NA,6
+2018,200,Foyesade Oluokun,S,0,0,0,0,0,0,0,0,0,0,0,11.5,Yale,8,6
+2018,201,Boston Scott,RB,0,0,0,0,0,302,1295,16,71,566,1,NA,Louisiana Tech,NA,6
+2018,202,Jack Cichy,ILB,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,6
+2018,203,Tanner Lee,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Nebraska,NA,6
+2018,204,Trenton Cannon,RB,0,0,0,0,0,51,150,1,20,160,0,NA,Virginia St.,NA,6
+2018,205,Trevon Young,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Louisville,NA,6
+2018,206,Matt Pryor,T,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,NA,6
+2018,207,Equanimeous St. Brown,WR,0,0,0,0,0,11,80,0,63,928,2,NA,Notre Dame,NA,6
+2018,208,Cedrick Wilson Jr.,WR,6,6,132,2,0,6,7,0,121,1480,12,NA,Boise St.,NA,6
+2018,209,Cornell Armstrong,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Southern Miss,NA,6
+2018,210,Braxton Berrios,WR,1,1,2,1,0,20,171,4,134,1323,6,NA,Miami (FL),NA,6
+2018,211,Jordan Thomas,TE,0,0,0,0,0,0,0,0,22,226,5,NA,Mississippi St.,NA,6
+2018,212,Greg Senat,T,0,0,0,0,0,0,0,0,0,0,0,NA,Wagner,NA,6
+2018,213,Colby Gossett,G,0,0,0,0,0,0,0,0,0,0,0,NA,Appalachian St.,NA,6
+2018,214,Peter Kalambayi,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Stanford,NA,6
+2018,215,Bradley Bozeman,C,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,6
+2018,216,Azeem Victor,LB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Washington,NA,6
+2018,217,Keishawn Bierria,ILB,0,0,0,0,0,0,0,0,0,0,0,NA,Washington,NA,6
+2018,218,Ade Aruna,DE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,NA,6
+2018,219,Danny Etling,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,LSU,NA,7
+2018,220,Alex McGough,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Florida International,NA,7
+2018,221,Matthew Adams,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Houston,NA,7
+2018,222,Jermaine Kelly,CB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,San Jose St.,NA,7
+2018,223,Jullian Taylor,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Temple,NA,7
+2018,224,Javon Wims,WR,0,0,0,0,0,1,2,0,28,266,2,NA,Georgia,NA,7
+2018,225,Devante Downs,LB,0,0,0,0,0,0,0,0,0,0,0,NA,California,NA,7
+2018,226,David Williams,RB,0,0,0,0,0,8,36,0,0,0,0,NA,Arkansas,NA,7
+2018,227,Quentin Poling,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio,NA,7
+2018,228,Marcell Ateman,WR,0,0,0,0,0,0,0,0,20,270,1,NA,Oklahoma St.,NA,7
+2018,229,Jason Sanders,K,0,0,0,0,0,0,0,0,1,1,1,NA,New Mexico,NA,7
+2018,230,Leon Jacobs,OLB,0,0,0,0,0,0,0,0,0,0,0,2,Wisconsin,NA,7
+2018,231,Travin Howard,OLB,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,1,7
+2018,232,James Looney,DE,0,0,0,0,0,0,0,0,0,0,0,NA,California,NA,7
+2018,233,Jordan Mailata,T,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,7
+2018,234,Andre Smith,ILB,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina,NA,7
+2018,235,Zaire Franklin,LB,0,0,0,0,0,0,0,0,0,0,0,9,Syracuse,3,7
+2018,236,Bo Scarbrough,RB,0,0,0,0,0,95,408,1,1,5,0,NA,Alabama,NA,7
+2018,237,Nick Bawden,RB,0,0,0,0,0,2,4,1,8,58,0,NA,San Diego St.,NA,7
+2018,238,Zach Sieler,DE,0,0,0,0,0,0,0,0,0,0,0,30,Ferris St.,2,7
+2018,239,Hunter Bradley,LS,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,7
+2018,240,Richie James,WR,0,0,0,0,0,4,5,0,105,1372,7,NA,Middle Tenn. St.,NA,7
+2018,241,Greg Stroman,CB,0,0,0,0,0,0,0,0,0,0,0,1,Virginia Tech,3,7
+2018,242,Kendrick Norton,DT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Miami (FL),NA,7
+2018,243,Keion Crossen,CB,0,0,0,0,0,0,0,0,0,0,0,1,Western Carolina,NA,7
+2018,244,Justin Lawler,DE,0,0,0,0,0,0,0,0,0,0,0,NA,SMU,NA,7
+2018,245,Will Clapp,C,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,7
+2018,246,Joshua Frazier,DT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,NA,7
+2018,247,Logan Cooke,P,4,4,33,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,7
+2018,248,Kendall Donnerson,OLB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,SE Missouri St.,NA,7
+2018,249,Logan Woodside,QB,4,7,34,0,1,14,10,0,0,0,0,NA,Toledo,NA,7
+2018,250,Ryan Izzo,TE,0,0,0,0,0,0,0,0,19,313,1,NA,Florida St.,NA,7
+2018,251,Justin Jackson,RB,0,0,0,0,0,248,1210,5,77,609,1,NA,Northwestern,NA,7
+2018,252,Rod Taylor,G,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mississippi,NA,7
+2018,253,Auden Tate,WR,0,0,0,0,0,0,0,0,61,799,2,NA,Florida St.,NA,7
+2018,254,Korey Cunningham,T,0,0,0,0,0,0,0,0,0,0,0,NA,Cincinnati,NA,7
+2018,255,Austin Proehl,WR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,North Carolina,NA,7
+2018,256,Trey Quinn,WR,0,0,0,0,0,1,0,0,35,273,2,NA,SMU,NA,7
+2019,1,Kyler Murray,QB,1974,2941,20460,121,60,532,3193,32,0,7,0,NA,Oklahoma,NA,1
+2019,2,Nick Bosa,DE,0,0,0,0,0,0,0,0,0,0,0,64.5,Ohio St.,2,1
+2019,3,Quinnen Williams,DT,0,0,0,0,0,0,0,0,0,0,0,40,Alabama,1,1
+2019,4,Clelin Ferrell,DE,0,0,0,0,0,0,0,0,0,0,0,17,Clemson,NA,1
+2019,5,Devin White,LB,0,0,0,0,0,0,0,0,0,0,0,23,LSU,3,1
+2019,6,Daniel Jones,QB,1544,2391,15872,76,49,418,2235,18,1,16,0,NA,Duke,NA,1
+2019,7,Josh Hines-Allen,LB,0,0,0,0,0,0,0,0,0,0,0,53.5,Kentucky,2,1
+2019,8,T.J. Hockenson,TE,0,0,0,0,0,1,0,0,401,4155,24,NA,Iowa,NA,1
+2019,9,Ed Oliver,DT,0,0,0,0,0,0,0,0,0,0,0,28,Houston,1,1
+2019,10,Devin Bush Jr.,LB,0,0,0,0,0,0,0,0,0,0,0,6,Michigan,2,1
+2019,11,Jonah Williams,G,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,1
+2019,12,Rashan Gary,LB,0,0,0,0,0,0,0,0,0,0,0,43.5,Michigan,NA,1
+2019,13,Christian Wilkins,DT,0,0,0,0,0,0,0,0,2,2,2,22.5,Clemson,1,1
+2019,14,Chris Lindstrom,G,0,0,0,0,0,0,0,0,0,0,0,NA,Boston Col.,NA,1
+2019,15,Dwayne Haskins,QB,267,444,2804,12,14,40,147,1,0,0,0,NA,Ohio St.,NA,1
+2019,16,Brian Burns,DE,0,0,0,0,0,0,0,0,0,0,0,59.5,Florida St.,NA,1
+2019,17,Dexter Lawrence,DT,0,0,0,0,0,0,0,0,0,0,0,30,Clemson,1,1
+2019,18,Garrett Bradbury,C,0,0,0,0,0,0,0,0,2,17,0,NA,North Carolina St.,NA,1
+2019,19,Jeffery Simmons,DT,0,0,0,0,0,0,0,0,1,2,1,35,Mississippi St.,NA,1
+2019,20,Noah Fant,TE,0,0,0,0,0,3,-12,0,312,3385,16,NA,Iowa,NA,1
+2019,21,Darnell Savage Jr.,S,0,0,0,0,0,0,0,0,0,0,0,1,Maryland,10,1
+2019,22,Andre Dillard,T,0,0,0,0,0,0,0,0,0,0,0,NA,Washington St.,NA,1
+2019,23,Tytus Howard,T,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama St.,NA,1
+2019,24,Josh Jacobs,RB,0,0,0,0,0,1686,7140,65,243,1909,1,NA,Alabama,NA,1
+2019,25,Marquise Brown,WR,0,0,0,0,0,5,30,0,348,3992,29,NA,Oklahoma,NA,1
+2019,26,Montez Sweat,DE,0,0,0,0,0,0,0,0,0,0,0,48,Mississippi St.,1,1
+2019,27,Johnathan Abram,S,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,5,1
+2019,28,Jerry Tillery,DT,0,0,0,0,0,0,0,0,0,0,0,13.5,Notre Dame,NA,1
+2019,29,L.J. Collier,DE,0,0,0,0,0,0,0,0,0,0,0,6.5,TCU,NA,1
+2019,30,Deandre Baker,CB,0,0,0,0,0,0,0,0,0,0,0,1,Georgia,NA,1
+2019,31,Kaleb McGary,T,0,0,0,0,0,0,0,0,1,-3,0,NA,Washington,NA,1
+2019,32,N'Keal Harry,WR,0,0,0,0,0,7,49,0,64,714,5,NA,Arizona St.,NA,1
+2019,33,Byron Murphy,CB,0,0,0,0,0,0,0,0,0,0,0,3,Washington,14,2
+2019,34,Rock Ya-Sin,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Temple,2,2
+2019,35,Jawaan Taylor,T,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,NA,2
+2019,36,Deebo Samuel,WR,1,3,24,1,0,209,1189,21,364,5092,25,NA,South Carolina,NA,2
+2019,37,Greg Little,T,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi,NA,2
+2019,38,Cody Ford,T,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,2
+2019,39,Sean Murphy-Bunting,CB,0,0,0,0,0,0,0,0,0,0,0,1,Central Michigan,11,2
+2019,40,Trayvon Mullen,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,4,2
+2019,41,Dalton Risner,T,0,0,0,0,0,0,0,0,0,0,0,NA,Kansas St.,NA,2
+2019,42,Drew Lock,QB,578,970,6369,34,28,96,431,7,1,1,0,NA,Missouri,NA,2
+2019,43,Jahlani Tavai,LB,0,0,0,0,0,0,0,0,0,0,0,5.5,Hawaii,4,2
+2019,44,Elgton Jenkins,C,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,2
+2019,45,Joejuan Williams,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Vanderbilt,NA,2
+2019,46,Greedy Williams,CB,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,2,2
+2019,47,Marquise Blair,S,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,NA,2
+2019,48,Erik McCoy,C,0,0,0,0,0,0,0,0,0,0,0,NA,Texas A&M,NA,2
+2019,49,Ben Banogu,LB,0,0,0,0,0,0,0,0,0,0,0,2.5,TCU,NA,2
+2019,50,Irv Smith Jr.,TE,0,0,0,0,0,0,0,0,109,973,10,NA,Alabama,NA,2
+2019,51,A.J. Brown,WR,0,2,0,0,0,5,70,1,465,7220,50,NA,Mississippi,NA,2
+2019,52,Drew Sample,TE,0,0,0,0,0,1,-4,0,104,756,5,NA,Washington,NA,2
+2019,53,Miles Sanders,RB,0,0,0,0,0,943,4462,24,183,1274,4,NA,Penn St.,NA,2
+2019,54,Lonnie Johnson Jr.,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Kentucky,4,2
+2019,55,Max Scharping,T,0,0,0,0,0,0,0,0,0,7,0,NA,Northern Illinois,NA,2
+2019,56,Mecole Hardman,WR,0,0,0,0,0,26,190,3,178,2302,16,NA,Georgia,NA,2
+2019,57,JJ Arcega-Whiteside,WR,0,0,0,0,0,0,0,0,16,290,1,NA,Stanford,NA,2
+2019,58,Trysten Hill,DT,0,0,0,0,0,0,0,0,0,0,0,1.5,Central Florida,NA,2
+2019,59,Parris Campbell,WR,0,0,0,0,0,11,108,0,123,1117,6,NA,Ohio St.,NA,2
+2019,60,Nasir Adderley,S,0,0,0,0,0,0,0,0,0,0,0,0.5,Delaware,3,2
+2019,61,Taylor Rapp,S,0,0,0,0,0,0,0,0,0,0,0,2,Washington,12,2
+2019,62,Andy Isabella,WR,0,0,0,0,0,6,10,0,33,447,3,NA,Massachusetts,NA,2
+2019,63,Juan Thornhill,S,0,0,0,0,0,0,0,0,0,0,0,1,Virginia,8,2
+2019,64,D.K. Metcalf,WR,0,0,0,0,0,3,17,0,453,6585,51,NA,Mississippi,NA,2
+2019,65,Zach Allen,DE,0,0,0,0,0,0,0,0,0,0,0,26.5,Boston Col.,1,3
+2019,66,Diontae Johnson,WR,0,0,0,0,0,21,140,0,424,4738,28,NA,Toledo,NA,3
+2019,67,Jalen Hurd,WR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Baylor,NA,3
+2019,68,Jachai Polite,LB,0,0,0,0,0,0,0,0,0,0,0,1,Florida,NA,3
+2019,69,Josh Oliver,TE,0,0,0,0,0,0,0,0,74,753,9,NA,San Jose St.,NA,3
+2019,70,Darrell Henderson,RB,0,0,0,0,0,442,1854,15,76,577,4,NA,Memphis,NA,3
+2019,71,Dre'Mont Jones,DT,0,0,0,0,0,0,0,0,0,0,0,30.5,Ohio St.,1,3
+2019,72,Germaine Pratt,LB,0,0,0,0,0,0,0,0,0,0,0,3.5,North Carolina St.,7,3
+2019,73,David Montgomery,RB,2,3,6,2,1,1380,5709,55,214,1739,4,NA,Iowa St.,NA,3
+2019,74,Devin Singletary,RB,1,1,6,1,0,1022,4558,24,198,1283,4,NA,Florida Atlantic,NA,3
+2019,75,Jace Sternberger,TE,0,0,0,0,0,0,0,0,12,114,1,NA,Texas A&M,NA,3
+2019,76,Terry McLaurin,WR,0,0,0,0,0,12,73,0,470,6528,38,NA,Ohio St.,NA,3
+2019,77,Chase Winovich,DE,0,0,0,0,0,0,0,0,0,0,0,12,Michigan,1,3
+2019,78,Michael Deiter,G,0,0,0,0,0,0,0,0,1,0,0,NA,Wisconsin,NA,3
+2019,79,David Long,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,1,3
+2019,80,Sione Takitaki,LB,0,0,0,0,0,0,0,0,0,0,0,4,BYU,2,3
+2019,81,Will Harris,S,0,0,0,0,0,0,0,0,0,0,0,1.5,Boston Col.,3,3
+2019,82,Nate Davis,G,0,0,0,0,0,0,0,0,0,0,0,NA,Charlotte,NA,3
+2019,83,Justin Layne,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan St.,NA,3
+2019,84,Khalen Saunders,DT,0,0,0,0,0,0,0,0,0,0,0,6.5,Western Illinois,1,3
+2019,85,Jaylon Ferguson,DE,0,0,0,0,0,0,0,0,0,0,0,4.5,Louisiana Tech,NA,3
+2019,86,Kahale Warring,TE,0,0,0,0,0,0,0,0,3,35,0,NA,San Diego St.,NA,3
+2019,87,Damien Harris,RB,0,0,0,0,0,472,2188,21,42,297,0,NA,Alabama,NA,3
+2019,88,Cody Barton,LB,0,0,0,0,0,0,0,0,0,0,0,3.5,Utah,6,3
+2019,89,Bobby Okereke,LB,0,0,0,0,0,0,0,0,0,0,0,6.5,Stanford,5,3
+2019,90,Connor McGovern,G,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,3
+2019,91,Trey Pipkins,T,0,0,0,0,0,0,0,0,0,0,0,NA,Sioux Falls,NA,3
+2019,92,Chuma Edoga,T,0,0,0,0,0,0,0,0,0,0,0,NA,USC,NA,3
+2019,93,Miles Boykin,WR,0,0,0,0,0,0,0,0,38,498,7,NA,Notre Dame,NA,3
+2019,94,Jamel Dean,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,9,3
+2019,95,Oshane Ximines,DE,0,0,0,0,0,0,0,0,0,0,0,6.5,Old Dominion,NA,3
+2019,96,Dawson Knox,TE,0,0,0,0,0,1,13,0,199,2331,23,NA,Mississippi,NA,3
+2019,97,Bobby Evans,T,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,3
+2019,98,Quincy Williams,S,0,0,0,0,0,0,0,0,0,0,0,10.5,Murray St.,1,3
+2019,99,Mike Edwards,S,0,0,0,0,0,0,0,0,0,0,0,3,Kentucky,8,3
+2019,100,Will Grier,QB,28,52,228,0,4,7,22,0,0,0,0,NA,West Virginia,NA,3
+2019,101,Yodny Cajuste,T,0,0,0,0,0,0,0,0,0,0,0,NA,West Virginia,NA,3
+2019,102,Alexander Mattison,RB,0,0,0,0,0,716,2790,15,136,1012,7,NA,Boise St.,NA,3
+2019,103,Hakeem Butler,WR,0,0,0,0,0,0,0,0,0,0,0,NA,Iowa St.,NA,4
+2019,104,Ryan Finley,QB,58,119,638,3,4,21,143,1,0,0,0,NA,North Carolina St.,NA,4
+2019,105,C.J. Gardner-Johnson,S,0,0,0,0,0,0,0,0,0,0,0,4,Florida,18,4
+2019,106,Maxx Crosby,DE,0,0,0,0,0,0,0,0,0,0,0,61.5,Eastern Michigan,1,4
+2019,107,Anthony Nelson,DE,0,0,0,0,0,0,0,0,0,0,0,18.5,Iowa,NA,4
+2019,108,Julian Love,CB,0,0,0,0,0,1,2,0,0,0,0,2.5,Notre Dame,12,4
+2019,109,Khari Willis,S,0,0,0,0,0,0,0,0,0,0,0,3.5,Michigan St.,4,4
+2019,110,Mitch Wishnowsky,P,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,NA,4
+2019,111,Kendall Sheffield,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,4
+2019,112,Bryce Love,RB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Stanford,NA,4
+2019,113,Justice Hill,RB,0,0,0,0,0,259,1234,7,108,853,5,NA,Oklahoma St.,NA,4
+2019,114,Dru Samia,G,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,4
+2019,115,Christian Miller,LB,0,0,0,0,0,0,0,0,0,0,0,2,Alabama,NA,4
+2019,116,Amani Hooker,S,0,0,0,0,0,2,6,0,1,6,0,1,Iowa,12,4
+2019,117,Austin Bryant,DE,0,0,0,0,0,0,0,0,0,0,0,4.5,Clemson,NA,4
+2019,118,Hjalte Froholdt,G,0,0,0,0,0,0,0,0,0,0,0,NA,Arkansas,NA,4
+2019,119,Sheldrick Redwine,S,0,0,0,0,0,0,0,0,0,0,0,0.5,Miami (FL),1,4
+2019,120,Gary Jennings Jr,WR,0,0,0,0,0,0,0,0,0,0,0,NA,West Virginia,NA,4
+2019,121,Trevon Wesco,TE,0,0,0,0,0,2,2,0,9,134,0,NA,West Virginia,NA,4
+2019,122,Benny Snell Jr.,RB,0,0,0,0,0,275,982,7,17,114,0,NA,Kentucky,NA,4
+2019,123,Ben Powers,G,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,4
+2019,124,Phil Haynes,G,0,0,0,0,0,0,0,0,0,0,0,NA,Wake Forest,NA,4
+2019,125,Renell Wren,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Arizona St.,NA,4
+2019,126,Riley Ridley,WR,0,0,0,0,0,0,0,0,10,108,0,NA,Georgia,NA,4
+2019,127,Iman Marshall,CB,0,0,0,0,0,0,0,0,0,0,0,NA,USC,NA,4
+2019,128,Tony Pollard,RB,0,0,0,0,0,1104,5028,30,226,1623,5,NA,Memphis,NA,4
+2019,129,Isaiah Johnson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Houston,NA,4
+2019,130,Drue Tranquill,LB,0,0,0,0,0,0,0,0,0,0,0,15,Notre Dame,1,4
+2019,131,Wes Martin,G,0,0,0,0,0,0,0,0,0,0,0,NA,Indiana,NA,4
+2019,132,Ugo Amadi,S,0,0,0,0,0,0,0,0,0,0,0,2,Oregon,1,4
+2019,133,Jarrett Stidham,QB,117,197,1422,8,8,36,102,0,0,0,0,NA,Auburn,NA,4
+2019,134,Greg Gaines,DT,0,0,0,0,0,0,0,0,0,0,0,13.5,Washington,NA,4
+2019,135,John Cominsky,DE,0,0,0,0,0,0,0,0,0,0,0,7.5,Charleston (WV),NA,4
+2019,136,Michael Jordan,G,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,4
+2019,137,Foster Moreau,TE,0,0,0,0,0,0,2,0,144,1713,18,NA,LSU,NA,4
+2019,138,Shareef Miller,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,4
+2019,139,Deionte Thompson,S,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,5
+2019,140,Ryquell Armstead,RB,0,0,0,0,0,50,188,0,17,160,2,NA,Temple,NA,5
+2019,141,Zach Gentry,TE,0,0,0,0,0,0,0,0,39,303,0,NA,Michigan,NA,5
+2019,142,Ben Burr-Kirven,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Washington,NA,5
+2019,143,Ryan Connelly,LB,0,0,0,0,0,0,0,0,0,0,0,1,Wisconsin,2,5
+2019,144,Marvell Tell III,S,0,0,0,0,0,0,0,0,0,0,0,NA,USC,NA,5
+2019,145,Matt Gay,K,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,NA,5
+2019,146,Amani Oruwariye,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,10,5
+2019,147,Vosean Joseph,LB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Florida,NA,5
+2019,148,Dre Greenlaw,LB,0,0,0,0,0,0,0,0,0,0,0,3.5,Arkansas,3,5
+2019,149,Hunter Renfrow,WR,0,0,0,0,0,3,3,0,283,2966,19,NA,Clemson,NA,5
+2019,150,Kingsley Keke,DT,0,0,0,0,0,0,0,0,0,0,0,6.5,Texas A&M,NA,5
+2019,151,Andrew Van Ginkel,LB,0,0,0,0,0,0,0,0,0,0,0,30.5,Wisconsin,4,5
+2019,152,Qadree Ollison,RB,0,0,0,0,0,44,158,5,5,19,0,NA,Pittsburgh,NA,5
+2019,153,Ross Pierschbacher,G,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,5
+2019,154,Jordan Scarlett,RB,0,0,0,0,0,4,9,0,0,0,0,NA,Florida,NA,5
+2019,155,Mack Wilson,LB,0,0,0,0,0,0,0,0,0,0,0,9,Alabama,2,5
+2019,156,Justin Hollins,LB,0,0,0,0,0,0,0,0,0,0,0,10.5,Oregon,NA,5
+2019,157,Blake Cashman,LB,0,0,0,0,0,0,0,0,0,0,0,10,Minnesota,1,5
+2019,158,Michael Jackson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Miami (FL),4,5
+2019,159,Byron Cowart,DT,0,0,0,0,0,0,0,0,0,0,0,3.5,Maryland,NA,5
+2019,160,Daylon Mack,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Texas A&M,NA,5
+2019,161,Charles Omenihu,DE,0,0,0,0,0,0,0,0,0,0,0,20.5,Texas,NA,5
+2019,162,Cameron Smith,LB,0,0,0,0,0,0,0,0,0,0,0,NA,USC,NA,5
+2019,163,Jake Bailey,P,0,0,0,0,0,1,0,0,0,0,0,NA,Stanford,NA,5
+2019,164,E.J. Speed,LB,0,0,0,0,0,0,0,0,0,0,0,2,Tarleton St.,1,5
+2019,165,Joe Jackson,DE,0,0,0,0,0,0,0,0,0,0,0,1.5,Miami (FL),NA,5
+2019,166,Easton Stick,QB,112,175,1133,3,1,28,142,1,0,0,0,NA,North Dakota St.,NA,5
+2019,167,Clayton Thorson,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Northwestern,NA,5
+2019,168,D'Andre Walker,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,5
+2019,169,David Edwards,T,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,5
+2019,170,Austin Seibert,K,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,5
+2019,171,Darius Slayton,WR,0,0,0,0,0,5,3,0,271,4063,21,NA,Auburn,NA,5
+2019,172,Jordan Miller,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Washington,NA,5
+2019,173,Cole Holcomb,LB,0,0,0,0,0,0,0,0,0,0,0,4.5,North Carolina,3,5
+2019,174,KeeSean Johnson,WR,0,0,0,0,0,1,3,0,36,360,1,NA,Fresno St.,NA,6
+2019,175,Sutton Smith,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Northern Illinois,NA,6
+2019,176,Kaden Smith,TE,0,0,0,0,0,0,0,0,52,413,3,NA,Stanford,NA,6
+2019,177,Saquan Hampton,S,0,0,0,0,0,0,0,0,0,0,0,NA,Rutgers,NA,6
+2019,178,Gardner Minshew II,QB,1094,1729,11950,68,34,167,676,5,1,0,0,NA,Washington St.,NA,6
+2019,179,Lamont Gaillard,C,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,6
+2019,180,Corey Ballentine,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Washburn,1,6
+2019,181,Jaquan Johnson,CB,1,1,13,0,0,0,0,0,0,0,0,NA,Miami (FL),2,6
+2019,182,Trayveon Williams,RB,0,0,0,0,0,62,307,0,15,74,0,NA,Texas A&M,NA,6
+2019,183,Justin Skule,T,0,0,0,0,0,0,0,0,0,0,0,NA,Vanderbilt,NA,6
+2019,184,Travis Fulgham,WR,0,0,0,0,0,0,0,0,38,539,4,NA,Old Dominion,NA,6
+2019,185,Ka'dar Hollman,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Toledo,NA,6
+2019,186,Ty Johnson,RB,0,0,0,0,0,289,1323,5,112,1022,7,NA,Maryland,NA,6
+2019,187,Juwann Winfree,WR,0,0,0,0,0,0,0,0,9,75,0,NA,Colorado,NA,6
+2019,188,David Long,LB,0,0,0,0,0,0,0,0,0,0,0,1,West Virginia,4,6
+2019,189,Drew Forbes,T,0,0,0,0,0,0,0,0,0,0,0,NA,SE Missouri St.,NA,6
+2019,190,Armon Watts,DT,0,0,0,0,0,0,0,0,0,0,0,8.5,Arkansas,NA,6
+2019,191,Marcus Epps,S,0,0,0,0,0,0,0,0,0,0,0,NA,Wyoming,3,6
+2019,192,Isaiah Buggs,DT,0,0,0,0,0,0,0,0,0,0,0,2,Alabama,NA,6
+2019,193,Oli Udoh,T,0,0,0,0,0,0,0,0,0,0,0,NA,Elon,NA,6
+2019,194,Dexter Williams,RB,0,0,0,0,0,7,19,0,0,0,0,NA,Notre Dame,NA,6
+2019,195,Xavier Crawford,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Central Michigan,NA,6
+2019,196,Blessuan Austin,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Rutgers,NA,6
+2019,197,Trace McSorley,QB,48,93,502,1,5,21,79,0,0,0,0,NA,Penn St.,NA,6
+2019,198,Tim Harris,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Virginia,NA,6
+2019,199,Gerri Green,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,6
+2019,200,Emeke Egbule,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Houston,NA,6
+2019,201,Rashad Fenton,CB,0,0,0,0,0,0,0,0,0,0,0,NA,South Carolina,2,6
+2019,202,Isaiah Prince,T,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,6
+2019,203,Marcus Green,WR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,La-Monroe,NA,6
+2019,204,Travis Homer,RB,0,0,0,0,0,89,476,1,55,475,2,NA,Miami (FL),NA,6
+2019,205,Duke Shelley,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Kansas St.,1,6
+2019,206,Kelvin Harmon,WR,1,1,11,0,0,0,0,0,30,365,0,NA,North Carolina St.,NA,6
+2019,207,Ulysees Gilbert,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Akron,NA,6
+2019,208,Scott Miller,WR,0,0,0,0,0,8,81,1,90,1154,6,NA,Bowling Green,NA,6
+2019,209,Demarcus Christmas,DT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Florida St.,NA,6
+2019,210,Deshaun Davis,LB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Auburn,NA,6
+2019,211,Rodney Anderson,RB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oklahoma,NA,6
+2019,212,Dennis Daley,T,0,0,0,0,0,0,0,0,0,0,0,NA,South Carolina,NA,6
+2019,213,Donovan Wilson,S,0,0,0,0,0,0,0,0,0,0,0,13,Texas A&M,7,6
+2019,214,Darwin Thompson,RB,0,0,0,0,0,64,225,2,16,108,1,NA,Utah St.,NA,6
+2019,215,Terry Beckner,DT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missouri,NA,7
+2019,216,Nick Allegretti,G,0,0,0,0,0,0,0,0,0,0,0,NA,Illinois,NA,7
+2019,217,Kris Boyd,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Texas,NA,7
+2019,218,Mike Weber,RB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ohio St.,NA,7
+2019,219,Derwin Gray,T,0,0,0,0,0,0,0,0,0,0,0,NA,Maryland,NA,7
+2019,220,Cullen Gillaspia,RB,0,0,0,0,0,0,0,0,1,6,0,NA,Texas A&M,NA,7
+2019,221,Donnie Lewis Jr.,CB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tulane,NA,7
+2019,222,Kerrith Whyte Jr,RB,0,0,0,0,0,24,122,0,1,9,0,NA,Florida Atlantic,NA,7
+2019,223,Jordan Brown,CB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,South Dakota St.,NA,7
+2019,224,Isaac Nauta,TE,0,0,0,0,0,0,0,0,3,16,0,NA,Georgia,NA,7
+2019,225,Darryl Johnson,DE,0,0,0,0,0,0,0,0,0,0,0,2,North Carolina A&T,NA,7
+2019,226,Ty Summers,LB,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,NA,7
+2019,227,Jimmy Moreland,CB,0,0,0,0,0,0,0,0,0,0,0,0.5,James Madison,1,7
+2019,228,Tommy Sweeney,TE,0,0,0,0,0,0,0,0,18,165,1,NA,Boston Col.,NA,7
+2019,229,P.J. Johnson,DE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arizona,NA,7
+2019,230,Quinton Bell,DE,0,0,0,0,0,0,0,0,0,0,0,1,Prairie View A&M,NA,7
+2019,231,Alizé Mack,TE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Notre Dame,NA,7
+2019,232,George Asafo-Adjei,T,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kentucky,NA,7
+2019,233,Chandler Cox,RB,0,0,0,0,0,0,0,0,2,9,0,NA,Auburn,NA,7
+2019,234,Myles Gaskin,RB,0,0,0,0,0,364,1354,7,102,712,6,NA,Washington,NA,7
+2019,235,Dontavius Russell,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,NA,7
+2019,236,John Ursua,WR,0,0,0,0,0,0,0,0,1,11,0,NA,Hawaii,NA,7
+2019,237,Terry Godwin,WR,0,0,0,0,0,1,3,0,3,32,0,NA,Georgia,NA,7
+2019,238,Stephen Denmark,CB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Valdosta St.,NA,7
+2019,239,Dillon Mitchell,WR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oregon,NA,7
+2019,240,Jackson Barton,T,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,NA,7
+2019,241,Jalen Jelks,DE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oregon,NA,7
+2019,242,Cortez Broughton,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Cincinnati,NA,7
+2019,243,Nick Scott,S,0,0,0,0,0,1,6,0,1,23,0,NA,Penn St.,4,7
+2019,244,Kaden Elliss,LB,0,0,0,0,0,0,0,0,0,0,0,18.5,Idaho,1,7
+2019,245,Chris Slayton,DT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Syracuse,NA,7
+2019,246,Javon Patterson,C,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi,NA,7
+2019,247,Olabisi Johnson,WR,0,0,0,0,0,1,6,0,45,483,3,NA,Colorado St.,NA,7
+2019,248,Joshua Miles,T,0,0,0,0,0,0,0,0,0,0,0,NA,Morgan St.,NA,7
+2019,249,Michael Dogbe,DE,0,0,0,0,0,0,0,0,0,0,0,2,Temple,NA,7
+2019,250,Austin Cutting,LS,0,0,0,0,0,0,0,0,0,0,0,NA,Air Force,NA,7
+2019,251,Dakota Allen,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Texas Tech,NA,7
+2019,252,Ken Webster,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi,NA,7
+2019,253,Jordan Brailford,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma St.,NA,7
+2019,254,Caleb Wilson,TE,0,0,0,0,0,0,0,0,0,0,0,NA,UCLA,NA,7
+2020,1,Joe Burrow,QB,1769,2583,19190,142,46,227,809,12,0,0,0,NA,LSU,NA,1
+2020,2,Chase Young,DE,0,0,0,0,0,0,0,0,0,0,0,22,Ohio St.,NA,1
+2020,3,Jeff Okudah,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,2,1
+2020,4,Andrew Thomas,T,0,0,0,0,0,0,0,0,1,2,1,NA,Georgia,NA,1
+2020,5,Tua Tagovailoa,QB,1493,2187,16514,110,48,160,458,6,0,0,0,NA,Alabama,NA,1
+2020,6,Justin Herbert,QB,2062,3104,22322,145,49,316,1370,13,3,0,0,NA,Oregon,NA,1
+2020,7,Derrick Brown,DT,0,0,0,0,0,0,0,0,0,0,0,9,Auburn,2,1
+2020,8,Isaiah Simmons,LB,0,0,0,0,0,0,0,0,0,0,0,8.5,Clemson,5,1
+2020,9,C.J. Henderson,CB,0,0,0,0,0,0,0,0,0,0,0,1,Florida,3,1
+2020,10,Jedrick Wills Jr.,T,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,1
+2020,11,Mekhi Becton,T,0,0,0,0,0,0,0,0,0,0,0,NA,Louisville,NA,1
+2020,12,Henry Ruggs III,WR,0,0,0,0,0,12,65,0,50,921,4,NA,Alabama,NA,1
+2020,13,Tristan Wirfs,T,0,0,0,0,0,0,0,0,0,9,0,NA,Iowa,NA,1
+2020,14,Javon Kinlaw,DT,0,0,0,0,0,0,0,0,0,0,0,9.5,South Carolina,1,1
+2020,15,Jerry Jeudy,WR,0,0,0,0,0,6,43,0,316,4479,15,NA,Alabama,NA,1
+2020,16,AJ Terrell,CB,0,0,0,0,0,0,0,0,0,0,0,1,Clemson,6,1
+2020,17,CeeDee Lamb,WR,0,0,0,0,0,57,388,3,512,6561,38,NA,Oklahoma,NA,1
+2020,18,Austin Jackson,T,0,0,0,0,0,0,0,0,0,0,0,NA,USC,NA,1
+2020,19,Damon Arnette,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,1
+2020,20,K'Lavon Chaisson,DE,0,0,0,0,0,0,0,0,0,0,0,12.5,LSU,1,1
+2020,21,Jalen Reagor,WR,0,0,0,0,0,22,97,0,86,1037,4,NA,TCU,NA,1
+2020,22,Justin Jefferson,WR,5,8,91,0,0,14,35,1,524,7881,41,NA,LSU,NA,1
+2020,23,Kenneth Murray,LB,0,0,0,0,0,0,0,0,0,0,0,8.5,Oklahoma,3,1
+2020,24,Cesar Ruiz,C,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,1
+2020,25,Brandon Aiyuk,WR,0,0,0,0,0,13,117,2,294,4305,25,NA,Arizona St.,NA,1
+2020,26,Jordan Love,QB,774,1208,9154,68,26,101,418,5,0,0,0,NA,Utah St.,NA,1
+2020,27,Jordyn Brooks,LB,0,0,0,0,0,0,0,0,0,0,0,11,Texas Tech,1,1
+2020,28,Patrick Queen,LB,0,0,0,0,0,0,0,0,0,0,0,15.5,LSU,4,1
+2020,29,Isaiah Wilson,T,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,1
+2020,30,Noah Igbinoghene,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,1,1
+2020,31,Jeff Gladney,CB,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,NA,1
+2020,32,Clyde Edwards-Helaire,RB,0,0,0,0,0,454,1891,12,92,789,7,NA,LSU,NA,1
+2020,33,Tee Higgins,WR,0,0,0,0,0,5,28,0,343,4753,36,NA,Clemson,NA,2
+2020,34,Michael Pittman Jr.,WR,0,0,0,0,0,11,100,0,431,4743,22,NA,USC,NA,2
+2020,35,D'Andre Swift,RB,0,1,0,0,0,902,3875,31,250,1883,8,NA,Georgia,NA,2
+2020,36,Xavier McKinney,S,0,0,0,0,0,0,0,0,0,0,0,2.5,Alabama,18,2
+2020,37,Kyle Dugger,S,0,0,0,0,0,0,0,0,0,0,0,3.5,Lenoir-Rhyne,9,2
+2020,38,Yetur Gross-Matos,DE,0,0,0,0,0,0,0,0,0,0,0,17,Penn St.,NA,2
+2020,39,Robert Hunt,G,0,0,0,0,0,1,0,0,0,0,0,NA,Louisiana,NA,2
+2020,40,Ross Blacklock,DT,0,0,0,0,0,0,0,0,0,0,0,3,TCU,NA,2
+2020,41,Jonathan Taylor,RB,0,0,0,0,0,1322,6493,57,157,1224,6,NA,Wisconsin,NA,2
+2020,42,Laviska Shenault Jr.,WR,0,0,0,0,0,51,253,1,163,1587,6,NA,Colorado,NA,2
+2020,43,Cole Kmet,TE,0,0,0,0,0,7,8,0,265,2708,20,NA,Notre Dame,NA,2
+2020,44,Grant Delpit,S,0,0,0,0,0,0,0,0,0,0,0,3.5,LSU,7,2
+2020,45,Antoine Winfield Jr.,S,0,0,0,0,0,0,0,0,0,0,0,18,Minnesota,7,2
+2020,46,KJ Hamler,WR,0,0,0,0,0,11,63,0,42,620,3,NA,Penn St.,NA,2
+2020,47,Marlon Davidson,DE,0,0,0,0,0,0,0,0,0,0,0,2,Auburn,1,2
+2020,48,Darrell Taylor,DE,0,0,0,0,0,0,0,0,0,0,0,24.5,Tennessee,NA,2
+2020,49,Chase Claypool,WR,1,1,1,1,0,33,171,2,175,2261,13,NA,Notre Dame,NA,2
+2020,50,Jaylon Johnson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,7,2
+2020,51,Trevon Diggs,CB,0,0,0,0,0,0,0,0,0,0,0,1,Alabama,20,2
+2020,52,Cam Akers,RB,1,1,32,1,0,507,2044,13,52,388,4,NA,Florida St.,NA,2
+2020,53,Jalen Hurts,QB,1341,2078,15556,92,39,717,3315,59,1,3,0,NA,Oklahoma,NA,2
+2020,54,A.J. Epenesa,DE,0,0,0,0,0,0,0,0,0,0,0,23,Iowa,2,2
+2020,55,J.K. Dobbins,RB,0,0,0,0,0,506,2654,25,65,353,1,NA,Ohio St.,NA,2
+2020,56,Raekwon Davis,DT,0,0,0,0,0,0,0,0,0,0,0,2,Alabama,NA,2
+2020,57,Van Jefferson,WR,0,0,0,0,0,4,23,0,141,1900,12,NA,Florida,NA,2
+2020,58,Ezra Cleveland,T,0,0,0,0,0,0,0,0,0,0,0,NA,Boise St.,NA,2
+2020,59,Denzel Mims,WR,0,0,0,0,0,0,0,0,42,676,0,NA,Baylor,NA,2
+2020,60,Joshua Uche,LB,0,0,0,0,0,0,0,0,0,0,0,20.5,Michigan,NA,2
+2020,61,Kristian Fulton,CB,0,0,0,0,0,0,0,0,0,0,0,1,LSU,5,2
+2020,62,AJ Dillon,RB,0,0,0,0,0,608,2486,16,86,763,2,NA,Boston Col.,NA,2
+2020,63,Willie Gay Jr.,LB,0,0,0,0,0,0,0,0,0,0,0,7,Mississippi St.,4,2
+2020,64,Jeremy Chinn,S,0,0,0,0,0,2,29,0,0,0,0,6,Southern Illinois,3,2
+2020,65,Logan Wilson,LB,0,0,0,0,0,0,0,0,0,0,0,5.5,Wyoming,11,3
+2020,66,Antonio Gibson,RB,0,0,0,0,0,787,3287,24,197,1495,7,NA,Memphis,NA,3
+2020,67,Julian Okwara,DE,0,0,0,0,0,0,0,0,0,0,0,10,Notre Dame,1,3
+2020,68,Ashtyn Davis,S,0,0,0,0,0,4,26,0,0,0,0,0.5,California,8,3
+2020,69,Damien Lewis,G,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,3
+2020,70,Brandon Jones,S,0,0,0,0,0,0,0,0,0,0,0,8,Texas,7,3
+2020,71,Nnamdi Madubuike,DT,0,0,0,0,0,0,0,0,0,0,0,30,Texas A&M,NA,3
+2020,72,Josh Jones,T,0,0,0,0,0,0,0,0,0,0,0,NA,Houston,NA,3
+2020,73,DaVon Hamilton,DT,0,0,0,0,0,0,0,0,0,0,0,4.5,Ohio St.,NA,3
+2020,74,Zack Baun,LB,0,0,0,0,0,0,0,0,0,0,0,7.5,Wisconsin,3,3
+2020,75,Jonah Jackson,G,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,3
+2020,76,Ke'Shawn Vaughn,RB,0,0,0,0,0,105,388,2,14,81,1,NA,Illinois,NA,3
+2020,77,Michael Ojemudia,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Iowa,NA,3
+2020,78,Matt Hennessy,C,0,0,0,0,0,0,0,0,0,0,0,NA,Temple,NA,3
+2020,79,Jabari Zuniga,DE,0,0,0,0,0,0,0,0,0,0,0,1,Florida,NA,3
+2020,80,Lynn Bowden Jr.,WR,1,2,32,0,0,14,64,0,39,294,0,NA,Kentucky,NA,3
+2020,81,Bryan Edwards,WR,0,0,0,0,0,1,0,0,48,779,4,NA,South Carolina,NA,3
+2020,82,Neville Gallimore,DT,0,0,0,0,0,0,0,0,0,0,0,5,Oklahoma,NA,3
+2020,83,Lloyd Cushenberry III,C,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,3
+2020,84,Terrell Lewis,LB,0,0,0,0,0,0,0,0,0,0,0,6,Alabama,1,3
+2020,85,Julian Blackmon,S,0,0,0,0,0,0,0,0,0,0,0,1.5,Utah,10,3
+2020,86,Zack Moss,RB,0,0,0,0,0,558,2318,16,98,710,5,NA,Utah,NA,3
+2020,87,Anfernee Jennings,LB,0,0,0,0,0,0,0,0,0,0,0,5.5,Alabama,NA,3
+2020,88,Jordan Elliott,DT,0,0,0,0,0,0,0,0,0,0,0,5,Texas,NA,3
+2020,89,Cameron Dantzler,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,3,3
+2020,90,Jonathan Greenard,DE,0,0,0,0,0,0,0,0,0,0,0,36,Florida,1,3
+2020,91,Devin Asiasi,TE,0,0,0,0,0,0,0,0,4,44,1,NA,UCLA,NA,3
+2020,92,Devin Duvernay,WR,0,0,0,0,0,31,222,1,105,977,5,NA,Texas,NA,3
+2020,93,Darrynton Evans,RB,0,0,0,0,0,65,249,1,12,120,1,NA,Appalachian St.,NA,3
+2020,94,Josiah Deguara,TE,0,0,0,0,0,0,0,0,50,450,2,NA,Cincinnati,NA,3
+2020,95,McTelvin Agim,DT,0,0,0,0,0,0,0,0,0,0,0,1.5,Arkansas,NA,3
+2020,96,Lucas Niang,T,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,NA,3
+2020,97,Jacob Phillips,LB,0,0,0,0,0,0,0,0,0,0,0,3,LSU,NA,3
+2020,98,Malik Harrison,LB,0,0,0,0,0,0,0,0,0,0,0,2,Ohio St.,NA,3
+2020,99,Matt Peart,T,0,0,0,0,0,0,0,0,0,0,0,NA,Connecticut,NA,3
+2020,100,Tanner Muse,S,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,NA,3
+2020,101,Dalton Keene,TE,0,0,0,0,0,0,0,0,3,16,0,NA,Virginia Tech,NA,3
+2020,102,Alex Highsmith,LB,0,0,0,0,0,0,0,0,0,0,0,36.5,Charlotte,3,3
+2020,103,Davion Taylor,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Colorado,NA,3
+2020,104,Terrell Burgess,S,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,NA,3
+2020,105,Adam Trautman,TE,0,0,0,0,0,0,0,0,102,1091,10,NA,Dayton,NA,3
+2020,106,Tyre Phillips,T,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,3
+2020,107,Akeem Davis-Gaither,LB,0,0,0,0,0,0,0,0,0,0,0,0.5,Appalachian St.,2,4
+2020,108,Saahdiq Charles,T,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,4
+2020,109,John Simpson,G,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,NA,4
+2020,110,Darnay Holmes,CB,0,0,0,0,0,0,0,0,0,0,0,1.5,UCLA,4,4
+2020,111,Solomon Kindley,G,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,4
+2020,112,Joshua Kelley,RB,0,0,0,0,0,321,1150,6,50,319,0,NA,UCLA,NA,4
+2020,113,Troy Pride Jr.,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Notre Dame,NA,4
+2020,114,Leki Fotu,DT,0,0,0,0,0,0,0,0,0,0,0,3.5,Utah,NA,4
+2020,115,Harrison Bryant,TE,0,0,0,0,0,6,16,0,99,882,10,NA,Florida Atlantic,NA,4
+2020,116,Ben Bartch,G,0,0,0,0,0,0,0,0,0,0,0,NA,Saint John's (MN),NA,4
+2020,117,D.J. Wonnum,DE,0,0,0,0,0,0,0,0,0,0,0,27,South Carolina,1,4
+2020,118,Albert Okwuegbunam,TE,0,0,0,0,0,0,0,0,59,582,4,NA,Missouri,NA,4
+2020,119,Mykal Walker,LB,0,0,0,0,0,0,0,0,0,0,0,1,Fresno St.,4,4
+2020,120,La'Mical Perine,RB,0,0,0,0,0,94,340,2,14,96,0,NA,Florida,NA,4
+2020,121,Logan Stenberg,G,0,0,0,0,0,0,0,0,0,0,0,NA,Kentucky,NA,4
+2020,122,Jacob Eason,QB,5,10,84,0,2,0,0,0,0,0,0,NA,Washington,NA,4
+2020,123,Reggie Robinson II,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Tulsa,NA,4
+2020,124,Anthony McFarland Jr.,RB,0,0,0,0,0,42,146,0,11,87,0,NA,Maryland,NA,4
+2020,125,James Morgan,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Florida International,NA,4
+2020,126,Charlie Heck,T,0,0,0,0,0,0,0,0,0,8,0,NA,North Carolina,NA,4
+2020,127,K'Von Wallace,S,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,1,4
+2020,128,Gabriel Davis,WR,0,0,0,0,0,2,-2,0,183,2969,29,NA,Central Florida,NA,4
+2020,129,Cameron Clark,T,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Charlotte,NA,4
+2020,130,James Lynch,DT,0,0,0,0,0,0,0,0,0,0,0,3,Baylor,NA,4
+2020,131,Rashard Lawrence,DT,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,4
+2020,132,Troy Dye,LB,0,0,0,0,0,0,0,0,0,0,0,3.5,Oregon,NA,4
+2020,133,Colby Parkinson,TE,0,0,0,0,0,0,0,0,91,923,5,NA,Stanford,NA,4
+2020,134,Jaylinn Hawkins,S,0,0,0,0,0,0,0,0,0,0,0,2,California,5,4
+2020,135,Kevin Dotson,G,0,0,0,0,0,0,0,0,0,0,0,NA,Louisiana,NA,4
+2020,136,Brycen Hopkins,TE,0,0,0,0,0,0,0,0,13,196,0,NA,Purdue,NA,4
+2020,137,Josiah Scott,CB,0,0,0,0,0,0,0,0,0,0,0,1,Michigan St.,2,4
+2020,138,L'Jarius Sneed,S,0,0,0,0,0,0,0,0,0,0,0,6.5,Louisiana Tech,10,4
+2020,139,Amik Robertson,CB,0,0,0,0,0,0,0,0,0,0,0,2,Louisiana Tech,5,4
+2020,140,Shaquille Quarterman,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Miami (FL),NA,4
+2020,141,John Reid,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,4
+2020,142,Antonio Gandy-Golden,WR,0,0,0,0,0,1,22,0,1,3,0,NA,Liberty,NA,4
+2020,143,Ben Bredeson,G,0,0,0,0,0,0,0,0,1,0,0,NA,Michigan,NA,4
+2020,144,DeeJay Dallas,RB,0,1,0,0,1,121,517,4,64,407,2,NA,Miami (FL),NA,4
+2020,145,Jack Driscoll,G,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,NA,4
+2020,146,Tyler Biadasz,C,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,4
+2020,147,Khalid Kareem,DE,0,0,0,0,0,0,0,0,0,0,0,1,Notre Dame,NA,5
+2020,148,Alton Robinson,DE,0,0,0,0,0,0,0,0,0,0,0,5,Syracuse,NA,5
+2020,149,Danny Pinter,G,0,0,0,0,0,0,0,0,1,2,1,NA,Ball St.,NA,5
+2020,150,Shane Lemieux,G,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,5
+2020,151,Joe Reed,WR,0,0,0,0,0,5,29,1,0,0,0,NA,Virginia,NA,5
+2020,152,Kenny Robinson Jr.,S,0,0,0,0,0,0,0,0,0,0,0,NA,West Virginia,NA,5
+2020,153,Colton McKivitz,T,0,0,0,0,0,0,0,0,0,0,0,NA,West Virginia,NA,5
+2020,154,Jason Strowbridge,DE,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina,NA,5
+2020,155,Trevis Gipson,DE,0,0,0,0,0,0,0,0,0,0,0,11,Tulsa,NA,5
+2020,156,Keith Ismael,C,0,0,0,0,0,0,0,0,0,0,0,NA,San Diego St.,NA,5
+2020,157,Daniel Thomas,S,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,1,5
+2020,158,Bryce Hall,CB,0,0,0,0,0,0,0,0,0,0,0,0.5,Virginia,2,5
+2020,159,Justin Rohrwasser,K,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Marshall,NA,5
+2020,160,Nick Harris,C,0,0,0,0,0,0,0,0,0,0,0,NA,Washington,NA,5
+2020,161,Tyler Johnson,WR,0,0,0,0,0,0,0,0,80,891,4,NA,Minnesota,NA,5
+2020,162,Khaleke Hudson,LB,0,0,0,0,0,0,0,0,0,0,0,1,Michigan,NA,5
+2020,163,Kindle Vildor,CB,0,0,0,0,0,0,0,0,0,0,0,1,Georgia Southern,1,5
+2020,164,Curtis Weaver,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Boise St.,NA,5
+2020,165,Collin Johnson,WR,0,0,0,0,0,0,0,0,31,394,2,NA,Texas,NA,5
+2020,166,Quintez Cephus,WR,0,0,0,0,0,0,0,0,37,568,4,NA,Wisconsin,NA,5
+2020,167,Jake Fromm,QB,27,60,210,1,3,8,65,0,0,0,0,NA,Georgia,NA,5
+2020,168,John Hightower,WR,0,0,0,0,0,1,1,0,10,167,0,NA,Boise St.,NA,5
+2020,169,Harrison Hand,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Temple,1,5
+2020,170,Broderick Washington Jr.,DT,0,0,0,0,0,0,0,0,0,0,0,6,Texas Tech,NA,5
+2020,171,Isaiah Coulter,WR,0,0,0,0,0,0,0,0,0,0,0,NA,Rhode Island,NA,5
+2020,172,Jason Huntley,RB,0,0,0,0,0,18,70,0,1,0,0,NA,New Mexico St.,NA,5
+2020,173,Darnell Mooney,WR,0,1,0,0,0,13,59,1,284,3664,16,NA,Tulane,NA,5
+2020,174,Larrell Murchison,DT,0,0,0,0,0,0,0,0,0,0,0,2,North Carolina St.,NA,5
+2020,175,Kamal Martin,LB,0,0,0,0,0,0,0,0,0,0,0,1,Minnesota,NA,5
+2020,176,K.J. Osborn,WR,0,0,0,0,0,4,16,0,165,1902,16,NA,Miami (FL),NA,5
+2020,177,Michael Danna,DE,0,0,0,0,0,0,0,0,0,0,0,20.5,Michigan,NA,5
+2020,178,Justin Strnad,LB,0,0,0,0,0,0,0,0,0,0,0,5,Wake Forest,NA,5
+2020,179,Bradlee Anae,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,NA,5
+2020,180,Hakeem Adeniji,T,0,0,0,0,0,0,0,0,0,0,0,NA,Kansas,NA,6
+2020,181,Netane Muti,G,0,0,0,0,0,0,0,0,0,0,0,NA,Fresno St.,NA,6
+2020,182,Michael Onwenu,G,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,6
+2020,183,Cam Brown,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,6
+2020,184,Bravvion Roy,DT,0,0,0,0,0,0,0,0,0,0,0,1,Baylor,1,6
+2020,185,Blake Ferguson,LS,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,6
+2020,186,Alohi Gilman,S,0,0,0,0,0,0,0,0,0,0,0,1,Notre Dame,5,6
+2020,187,Donovan Peoples-Jones,WR,0,0,0,0,0,1,2,0,122,1895,8,NA,Michigan,NA,6
+2020,188,Tyler Bass,K,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia Southern,NA,6
+2020,189,Jake Luton,QB,60,110,624,2,6,1,13,1,0,0,0,NA,Oregon St.,NA,6
+2020,190,Charlie Woerner,TE,0,0,0,0,0,0,0,0,19,161,0,NA,Georgia,NA,6
+2020,191,Braden Mann,P,2,3,45,0,0,2,-30,0,0,0,0,NA,Texas A&M,NA,6
+2020,192,Jon Runyan Jr.,T,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,6
+2020,193,Robert Windsor,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,6
+2020,194,Khalil Davis,DT,0,0,0,0,0,0,0,0,0,0,0,3,Nebraska,NA,6
+2020,195,Justin Herron,T,0,0,0,0,0,0,0,0,0,0,0,NA,Wake Forest,NA,6
+2020,196,Shaun Bradley,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Temple,NA,6
+2020,197,John Penisini,DT,0,0,0,0,0,0,0,0,0,0,0,1,Utah,NA,6
+2020,198,Antoine Brooks Jr.,S,0,0,0,0,0,0,0,0,0,0,0,NA,Maryland,NA,6
+2020,199,Jordan Fuller,S,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,7,6
+2020,200,Quez Watkins,WR,0,0,0,0,0,4,4,0,98,1249,6,NA,Southern Miss,NA,6
+2020,201,James Proche,WR,0,1,0,0,1,0,0,0,28,299,0,NA,SMU,NA,6
+2020,202,Evan Weaver,LB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,California,NA,6
+2020,203,Blake Brandel,T,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon St.,NA,6
+2020,204,Cassh Maluia,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Wyoming,NA,6
+2020,205,Josh Metellus,S,0,0,0,0,0,0,0,0,0,0,0,2.5,Michigan,5,6
+2020,206,Tyler Davis,TE,0,0,0,0,0,0,0,0,8,61,0,NA,Georgia Tech,NA,6
+2020,207,Isaiah Hodgins,WR,0,0,0,0,0,0,0,0,60,634,7,NA,Oregon St.,NA,6
+2020,208,Jake Hanson,C,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,6
+2020,209,Simon Stepaniak,T,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Indiana,NA,6
+2020,210,Prince Tega Wanogho,T,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,NA,6
+2020,211,Isaiah Rodgers,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Massachusetts,4,6
+2020,212,Dezmon Patmon,WR,0,0,0,0,0,0,0,0,4,45,1,NA,Washington St.,NA,6
+2020,213,Jordan Glasgow,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,6
+2020,214,Freddie Swain,WR,0,0,0,0,0,5,32,0,42,576,6,NA,Florida,NA,6
+2020,215,Markus Bailey,LB,0,0,0,0,0,0,0,0,0,0,0,0.5,Purdue,NA,7
+2020,216,Kamren Curl,S,0,0,0,0,0,0,0,0,0,0,0,7,Arkansas,5,7
+2020,217,Jauan Jennings,WR,0,0,0,0,0,0,0,0,164,2067,14,NA,Tennessee,NA,7
+2020,218,Carter Coughlin,LB,0,0,0,0,0,0,0,0,0,0,0,1,Minnesota,NA,7
+2020,219,Geno Stone,S,0,0,0,0,0,0,0,0,0,0,0,NA,Iowa,12,7
+2020,220,K.J. Hill,WR,0,0,0,0,0,0,0,0,10,103,0,NA,Ohio St.,NA,7
+2020,221,Stantley Thomas-Oliver,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida International,NA,7
+2020,222,Eno Benjamin,RB,0,0,0,0,0,111,431,3,31,235,0,NA,Arizona St.,NA,7
+2020,223,Chris Claybrooks,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Memphis,NA,7
+2020,224,Cole McDonald,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hawaii,NA,7
+2020,225,Kenny Willekes,DE,0,0,0,0,0,0,0,0,0,0,0,2.5,Michigan St.,NA,7
+2020,226,Arlington Hambright,T,0,0,0,0,0,0,0,0,0,0,0,NA,Colorado,NA,7
+2020,227,Lachavious Simmons,G,0,0,0,0,0,0,0,0,0,0,0,NA,Tennessee St.,NA,7
+2020,228,Sterling Hofrichter,P,0,0,0,0,0,0,0,0,0,0,0,NA,Syracuse,NA,7
+2020,229,James Smith-Williams,DE,0,0,0,0,0,0,0,0,0,0,0,8,North Carolina St.,NA,7
+2020,230,Dustin Woodard,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Memphis,NA,7
+2020,231,Ben DiNucci,QB,23,43,219,0,0,6,22,0,0,0,0,NA,James Madison,NA,7
+2020,232,Carlos Davis,DT,0,0,0,0,0,0,0,0,0,0,0,1,Nebraska,NA,7
+2020,233,Casey Toohill,DE,0,0,0,0,0,0,0,0,0,0,0,8,Stanford,NA,7
+2020,234,Clay Johnston,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Baylor,NA,7
+2020,235,Jashon Cornell,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,7
+2020,236,Vernon Scott,S,0,0,0,0,0,0,0,0,0,0,0,1,TCU,NA,7
+2020,237,Thakarius Keyes,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Tulane,NA,7
+2020,238,T.J. Brunson,LB,0,0,0,0,0,0,0,0,0,0,0,NA,South Carolina,NA,7
+2020,239,Dane Jackson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Pittsburgh,3,7
+2020,240,Tommy Stevens,QB,0,0,0,0,0,4,24,0,0,0,0,NA,Mississippi St.,NA,7
+2020,241,Chapelle Russell,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Temple,NA,7
+2020,242,Jonathan Garvin,DE,0,0,0,0,0,0,0,0,0,0,0,1.5,Miami (FL),NA,7
+2020,243,Chris Jackson,S,0,0,0,0,0,0,0,0,0,0,0,NA,Marshall,NA,7
+2020,244,Nate Stanley,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Iowa,NA,7
+2020,245,Raymond Calais,RB,0,0,0,0,0,0,0,0,0,0,0,NA,Louisiana,NA,7
+2020,246,Malcolm Perry,RB,0,0,0,0,0,3,5,0,9,92,1,NA,Navy,NA,7
+2020,247,Chris Williamson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Minnesota,NA,7
+2020,248,Sam Sloman,K,0,0,0,0,0,0,0,0,0,0,0,NA,Miami (OH),NA,7
+2020,249,Brian Cole II,S,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mississippi St.,NA,7
+2020,250,Tremayne Anchrum,G,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,NA,7
+2020,251,Stephen Sullivan,TE,0,0,0,0,0,0,0,0,14,171,0,NA,LSU,NA,7
+2020,252,Tyrie Cleveland,WR,0,0,0,0,0,0,0,0,8,91,0,NA,Florida,NA,7
+2020,253,Kyle Hinton,G,0,0,0,0,0,0,0,0,0,0,0,NA,Washburn,NA,7
+2020,254,Derrek Tuszka,LB,0,0,0,0,0,0,0,0,0,0,0,2,North Dakota St.,NA,7
+2020,255,Tae Crowder,LB,0,0,0,0,0,0,0,0,0,0,0,2,Georgia,2,7
+2021,1,Trevor Lawrence,QB,1390,2203,14881,75,51,256,1169,16,0,-5,0,NA,Clemson,NA,1
+2021,2,Zach Wilson,QB,571,1001,6325,23,25,94,501,5,1,2,1,NA,BYU,NA,1
+2021,3,Trey Lance,QB,84,147,1107,5,4,66,287,1,0,0,0,NA,North Dakota St.,NA,1
+2021,4,Kyle Pitts,TE,0,0,0,0,0,1,-4,0,216,2856,11,NA,Florida,NA,1
+2021,5,Ja'Marr Chase,WR,1,1,-7,0,0,19,64,0,427,5799,49,NA,LSU,NA,1
+2021,6,Jaylen Waddle,WR,0,0,0,0,0,12,53,1,332,4424,23,NA,Alabama,NA,1
+2021,7,Penei Sewell,OL,0,0,0,0,0,0,0,0,1,9,0,NA,Oregon,NA,1
+2021,8,Jaycee Horn,DB,0,0,0,0,0,0,0,0,0,0,0,2,South Carolina,6,1
+2021,9,Patrick Surtain II,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,11,1
+2021,10,DeVonta Smith,WR,0,0,0,0,0,1,1,0,333,4283,28,NA,Alabama,NA,1
+2021,11,Justin Fields,QB,755,1225,8534,49,31,449,2713,22,0,0,0,NA,Ohio St.,NA,1
+2021,12,Micah Parsons,LB,0,0,0,0,0,0,0,0,0,0,0,55,Penn St.,NA,1
+2021,13,Rashawn Slater,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Northwestern,NA,1
+2021,14,Alijah Vera-Tucker,OL,0,0,0,0,0,0,0,0,0,0,0,NA,USC,NA,1
+2021,15,Mac Jones,QB,1121,1699,11495,60,45,156,429,2,0,0,0,NA,Alabama,NA,1
+2021,16,Zaven Collins,LB,0,0,0,0,0,0,0,0,0,0,0,10.5,Tulsa,2,1
+2021,17,Alex Leatherwood,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,1
+2021,18,Jaelan Phillips,DL,0,0,0,0,0,0,0,0,0,0,0,24,Miami (FL),1,1
+2021,19,Jamin Davis,LB,0,0,0,0,0,0,0,0,0,0,0,8,Kentucky,1,1
+2021,20,Kadarius Toney,WR,1,4,19,0,0,23,115,1,82,760,3,NA,Florida,NA,1
+2021,21,Kwity Paye,DL,0,0,0,0,0,0,0,0,0,0,0,27.5,Michigan,NA,1
+2021,22,Caleb Farley,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Virginia Tech,NA,1
+2021,23,Christian Darrisaw,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Virginia Tech,NA,1
+2021,24,Najee Harris,RB,1,1,4,0,0,1112,4373,28,183,1174,6,NA,Alabama,NA,1
+2021,25,Travis Etienne,RB,0,0,0,0,0,714,3134,20,141,1087,2,NA,Clemson,NA,1
+2021,26,Greg Newsome II,DB,0,0,0,0,0,0,0,0,0,0,0,1,Northwestern,3,1
+2021,27,Rashod Bateman,WR,0,0,0,0,0,1,18,0,148,2035,14,NA,Minnesota,NA,1
+2021,28,Payton Turner,DE,0,0,0,0,0,0,0,0,0,0,0,5,Houston,NA,1
+2021,29,Eric Stokes,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,1,1
+2021,30,Gregory Rousseau,DL,0,0,0,0,0,0,0,0,0,0,0,26.5,Miami (FL),1,1
+2021,31,Odafe Oweh,DE,0,0,0,0,0,0,0,0,0,0,0,23,Penn St.,NA,1
+2021,32,Joe Tryon-Shoyinka,OLB,0,0,0,0,0,0,0,0,0,0,0,15,Washington,NA,1
+2021,33,Tyson Campbell,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,6,2
+2021,34,Elijah Moore,WR,0,0,0,0,0,25,96,2,204,2226,9,NA,Mississippi,NA,2
+2021,35,Javonte Williams,RB,0,0,0,0,0,685,2841,16,175,1044,6,NA,North Carolina,NA,2
+2021,36,Jevon Holland,S,0,0,0,0,0,0,0,0,0,0,0,5,Oregon,5,2
+2021,37,Landon Dickerson,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,2
+2021,38,Christian Barmore,DL,0,0,0,0,0,0,0,0,0,0,0,13.5,Alabama,NA,2
+2021,39,Teven Jenkins,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma St.,NA,2
+2021,40,Richie Grant,DB,0,0,0,0,0,0,0,0,0,0,0,3,Central Florida,3,2
+2021,41,Levi Onwuzurike,DL,0,0,0,0,0,0,0,0,0,0,0,3.5,Washington,NA,2
+2021,42,Liam Eichenberg,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Notre Dame,NA,2
+2021,43,Tre'von Moehrig,S,0,0,0,0,0,0,0,0,0,0,0,3,TCU,6,2
+2021,44,Kelvin Joseph,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Kentucky,NA,2
+2021,45,Walker Little,T,0,0,0,0,0,0,0,0,0,0,0,NA,Stanford,NA,2
+2021,46,Jackson Carman,T,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,NA,2
+2021,47,Asante Samuel Jr.,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida St.,6,2
+2021,48,Aaron Banks,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Notre Dame,NA,2
+2021,49,Rondale Moore,WR,0,0,0,0,0,52,249,1,135,1201,3,NA,Purdue,NA,2
+2021,50,Azeez Ojulari,OLB,0,0,0,0,0,0,0,0,0,0,0,22,Georgia,NA,2
+2021,51,Samuel Cosmi,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Texas,NA,2
+2021,52,Jeremiah Owusu-Koramoah,LB,0,0,0,0,0,0,0,0,0,0,0,8,Notre Dame,3,2
+2021,53,Dillon Radunz,T,0,0,0,0,0,0,0,0,0,0,0,NA,North Dakota St.,NA,2
+2021,54,Dayo Odeyingbo,DL,0,0,0,0,0,0,0,0,0,0,0,17.5,Vanderbilt,NA,2
+2021,55,Pat Freiermuth,TE,0,0,0,0,0,0,0,0,227,2255,18,NA,Penn St.,NA,2
+2021,56,D'Wayne Eskridge,WR,0,0,0,0,0,8,74,0,22,183,1,NA,Western Michigan,NA,2
+2021,57,Tutu Atwell,WR,0,1,0,0,0,16,72,1,103,1507,5,NA,Louisville,NA,2
+2021,58,Nick Bolton,LB,0,0,0,0,0,0,0,0,0,0,0,5,Missouri,4,2
+2021,59,Terrace Marshall Jr.,WR,0,0,0,0,0,0,0,0,67,808,1,NA,LSU,NA,2
+2021,60,Pete Werner,LB,0,0,0,0,0,0,0,0,0,0,0,1.5,Ohio St.,1,2
+2021,61,Boogie Basham,DL,0,0,0,0,0,0,0,0,0,0,0,4.5,Wake Forest,1,2
+2021,62,Josh Myers,C,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,2
+2021,63,Creed Humphrey,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,2
+2021,64,Kyle Trask,QB,4,11,28,0,0,6,-5,0,0,0,0,NA,Florida,NA,2
+2021,65,Andre Cisco,DB,0,0,0,0,0,0,0,0,0,0,0,1.5,Syracuse,8,3
+2021,66,Kellen Mond,QB,2,3,5,0,0,0,0,0,0,0,0,NA,Texas A&M,NA,3
+2021,67,Davis Mills,QB,595,952,6190,35,25,58,175,2,0,0,0,NA,Stanford,NA,3
+2021,68,Jalen Mayfield,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,3
+2021,69,Joseph Ossai,LB,0,0,0,0,0,0,0,0,0,0,0,11.5,Texas,NA,3
+2021,70,Brady Christensen,OL,0,0,0,0,0,0,0,0,0,0,0,NA,BYU,NA,3
+2021,71,Aaron Robinson,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Central Florida,NA,3
+2021,72,Alim McNeill,DT,0,0,0,0,0,0,0,0,0,0,0,11.5,North Carolina St.,NA,3
+2021,73,Milton Williams,DL,0,0,0,0,0,0,0,0,0,0,0,14,Louisiana Tech,NA,3
+2021,74,Benjamin St-Juste,DB,0,0,0,0,0,0,0,0,0,0,0,3,Minnesota,1,3
+2021,75,Osa Odighizuwa,DL,0,0,0,0,0,0,0,0,0,0,0,14.5,UCLA,NA,3
+2021,76,Paulson Adebo,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Stanford,10,3
+2021,77,Josh Palmer,WR,0,0,0,0,0,3,16,0,194,2461,10,NA,Tennessee,NA,3
+2021,78,Chazz Surratt,LB,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina,NA,3
+2021,79,Malcolm Koonce,DE,0,0,0,0,0,0,0,0,0,0,0,11,Buffalo,NA,3
+2021,80,Divine Deablo,DB,0,0,0,0,0,0,0,0,1,34,0,2.5,Virginia Tech,NA,3
+2021,81,Hunter Long,TE,0,0,0,0,0,0,0,0,15,112,2,NA,Boston Col.,NA,3
+2021,82,Dyami Brown,WR,1,2,4,0,0,9,52,0,71,915,5,NA,North Carolina,NA,3
+2021,83,Tommy Tremble,TE,0,0,0,0,0,3,11,1,97,869,10,NA,Notre Dame,NA,3
+2021,84,Chauncey Golston,DL,0,0,0,0,0,0,0,0,0,0,0,9,Iowa,1,3
+2021,85,Amari Rodgers,WR,0,0,0,0,0,3,18,0,20,249,1,NA,Clemson,NA,3
+2021,86,Wyatt Davis,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,3
+2021,87,Kendrick Green,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Illinois,NA,3
+2021,88,Trey Sermon,RB,0,0,0,0,0,134,505,3,22,138,0,NA,Ohio St.,NA,3
+2021,89,Nico Collins,WR,0,0,0,0,0,2,15,0,240,3542,21,NA,Michigan,NA,3
+2021,90,Patrick Jones II,DL,0,0,0,0,0,0,0,0,0,0,0,13,Pittsburgh,NA,3
+2021,91,Anthony Schwartz,WR,0,0,0,0,0,10,96,1,14,186,1,NA,Auburn,NA,3
+2021,92,Monty Rice,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,3
+2021,93,Spencer Brown,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Northern Iowa,NA,3
+2021,94,Ben Cleveland,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,3
+2021,95,Robert Hainsey,OL,0,0,0,0,0,0,0,0,0,-3,0,NA,Notre Dame,NA,3
+2021,96,Ronnie Perkins,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,3
+2021,97,Tre' McKitty,TE,0,0,0,0,0,0,0,0,16,117,0,NA,Georgia,NA,3
+2021,98,Quinn Meinerz,C,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin–Whitewater,NA,3
+2021,99,Nahshon Wright,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon St.,2,3
+2021,100,Elijah Molden,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Washington,5,3
+2021,101,Ifeatu Melifonwu,DB,0,0,0,0,0,0,0,0,0,0,0,4.5,Syracuse,2,3
+2021,102,Ambry Thomas,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,2,3
+2021,103,Ernest Jones,LB,0,0,0,0,0,0,0,0,0,0,0,6.5,South Carolina,6,3
+2021,104,Brandon Stephens,CB,0,0,0,0,0,0,0,0,0,0,0,2,SMU,2,3
+2021,105,Baron Browning,LB,0,0,0,0,0,0,0,0,0,0,0,12.5,Ohio St.,2,3
+2021,106,Jay Tufele,DL,0,0,0,0,0,0,0,0,0,0,0,0.5,USC,NA,4
+2021,107,Michael Carter,RB,0,0,0,0,0,345,1411,9,117,793,1,NA,North Carolina,NA,4
+2021,108,Darren Hall,CB,0,0,0,0,0,0,0,0,0,0,0,1,San Diego St.,NA,4
+2021,109,Dez Fitzpatrick,WR,0,0,0,0,0,0,0,0,5,49,1,NA,Louisville,NA,4
+2021,110,James Hudson,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Cincinnati,NA,4
+2021,111,Cameron Sample,DE,0,0,0,0,0,0,0,0,0,0,0,5,Tulane,NA,4
+2021,112,Amon-Ra St. Brown,WR,1,1,7,1,0,24,193,1,465,5258,39,NA,USC,NA,4
+2021,113,Derrick Barnes,DE,0,0,0,0,0,0,0,0,0,0,0,6,Purdue,NA,4
+2021,114,Drew Dalman,C,0,0,0,0,0,0,0,0,0,0,0,NA,Stanford,NA,4
+2021,115,Jabril Cox,LB,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,4
+2021,116,Elerson Smith,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Northern Iowa,NA,4
+2021,117,Bobby Brown,DL,0,0,0,0,0,0,0,0,0,0,0,0.5,Texas A&M,NA,4
+2021,118,Chris Rumph,DE,0,0,0,0,0,0,0,0,0,0,0,4,Duke,NA,4
+2021,119,Kene Nwangwu,RB,0,0,0,0,0,27,88,0,6,30,0,NA,Iowa St.,NA,4
+2021,120,Rhamondre Stevenson,RB,0,0,0,0,0,744,3205,23,167,1104,2,NA,Oklahoma,NA,4
+2021,121,Jordan Smith,OLB,0,0,0,0,0,0,0,0,0,0,0,NA,Ala-Birmingham,NA,4
+2021,122,Tyler Shelvin,DT,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,4
+2021,123,Zech McPhearson,DB,0,0,0,0,0,0,0,0,0,0,0,1,Texas Tech,NA,4
+2021,124,John Bates,TE,0,0,0,0,0,0,0,0,62,601,2,NA,Boise St.,NA,4
+2021,125,Camryn Bynum,CB,0,0,0,0,0,0,0,0,0,0,0,1.5,California,10,4
+2021,126,Chuba Hubbard,RB,0,0,0,0,0,808,3392,22,134,843,4,NA,Oklahoma St.,NA,4
+2021,127,Kylen Granson,TE,0,0,0,0,0,2,2,0,88,964,1,NA,SMU,NA,4
+2021,128,Dan Moore,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Texas A&M,NA,4
+2021,129,Jaelon Darden,WR,0,0,0,0,0,2,13,0,9,75,0,NA,North Texas,NA,4
+2021,130,Robert Rochell,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Central Arkansas,1,4
+2021,131,Tylan Wallace,WR,0,0,0,0,0,0,0,0,21,299,2,NA,Oklahoma St.,NA,4
+2021,132,Tommy Togiai,DT,0,0,0,0,0,0,0,0,0,0,0,2.5,Ohio St.,NA,4
+2021,133,Ian Book,QB,12,20,135,0,2,3,6,0,0,0,0,NA,Notre Dame,NA,4
+2021,134,Janarius Robinson,DE,0,0,0,0,0,0,0,0,0,0,0,1.5,Florida St.,NA,4
+2021,135,Rashad Weaver,DL,0,0,0,0,0,0,0,0,0,0,0,5.5,Pittsburgh,NA,4
+2021,136,Marco Wilson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,3,4
+2021,137,Tre Brown,CB,0,0,0,0,0,0,0,0,0,0,0,1,Oklahoma,2,4
+2021,138,Josh Ball,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Marshall,NA,4
+2021,139,D'Ante Smith,T,0,0,0,0,0,0,0,0,0,0,0,NA,East Carolina,NA,4
+2021,140,Buddy Johnson,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Texas A&M,NA,4
+2021,141,Jacob Harris,WR,0,0,0,0,0,0,0,0,1,6,0,NA,Central Florida,NA,4
+2021,142,Royce Newman,G,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi,NA,4
+2021,143,Tyree Gillespie,S,0,0,0,0,0,0,0,0,0,0,0,NA,Missouri,NA,4
+2021,144,Joshua Kaindoh,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Florida St.,NA,4
+2021,145,Luke Farrell,TE,0,0,0,0,0,0,0,0,42,365,1,NA,Ohio St.,NA,5
+2021,146,Jamien Sherwood,DB,0,0,0,0,0,0,0,0,0,0,0,2.5,Auburn,NA,5
+2021,147,Brevin Jordan,TE,0,0,0,0,0,0,0,0,53,532,5,NA,Miami (FL),NA,5
+2021,148,Ta'Quon Graham,DL,0,0,0,0,0,0,0,0,0,0,0,1,Texas,NA,5
+2021,149,Evan McPherson,K,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,NA,5
+2021,150,Kenneth Gainwell,RB,1,1,17,0,0,315,1339,15,115,786,1,NA,Memphis,NA,5
+2021,151,Larry Borom,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Missouri,NA,5
+2021,152,Caden Sterns,DB,0,0,0,0,0,0,0,0,0,0,0,2,Texas,4,5
+2021,153,Tony Fields,LB,0,0,0,0,0,0,0,0,0,0,0,NA,West Virginia,1,5
+2021,154,Michael Carter II,S,0,0,0,0,0,0,0,0,0,0,0,1,Duke,2,5
+2021,155,Jaylon Moore,T,0,0,0,0,0,0,0,0,0,0,0,NA,Western Michigan,NA,5
+2021,156,Isaiahh Loudermilk,DE,0,0,0,0,0,0,0,0,0,0,0,1,Wisconsin,NA,5
+2021,157,Ihmir Smith-Marsette,WR,0,0,0,0,0,9,73,1,14,182,2,NA,Iowa,NA,5
+2021,158,Daviyon Nixon,DT,0,0,0,0,0,0,0,0,0,0,0,0.5,Iowa,NA,5
+2021,159,Brenden Jaimes,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Nebraska,NA,5
+2021,160,Shaun Wade,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,5
+2021,161,Tommy Doyle,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Miami (OH),NA,5
+2021,162,Noah Gray,TE,0,0,0,0,0,3,-2,1,109,1099,9,NA,Duke,NA,5
+2021,163,Darrick Forrest,S,0,0,0,0,0,0,0,0,0,0,0,NA,Cincinnati,4,5
+2021,164,Jamar Johnson,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Indiana,NA,5
+2021,165,Shawn Davis,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,NA,5
+2021,166,Keith Taylor,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Washington,NA,5
+2021,167,Nate Hobbs,CB,0,0,0,0,0,0,0,0,0,0,0,3,Illinois,3,5
+2021,168,Zach Davidson,TE,0,0,0,0,0,0,0,0,1,5,0,NA,Central Missouri St.,NA,5
+2021,169,Richard LeCounte,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,5
+2021,170,Garret Wallow,LB,0,0,0,0,0,0,0,0,0,0,0,1,TCU,NA,5
+2021,171,Daelin Hayes,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Notre Dame,NA,5
+2021,172,Deommodore Lenoir,CB,0,0,0,0,0,0,0,0,0,0,0,1,Oregon,6,5
+2021,173,Tedarrell Slaton,DL,0,0,0,0,0,0,0,0,0,0,0,2,Florida,NA,5
+2021,174,Earnest Brown IV,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Northwestern,NA,5
+2021,175,Jason Pinnock,CB,0,0,0,0,0,0,0,0,0,0,0,6.5,Pittsburgh,2,5
+2021,176,K.J. Britt,LB,0,0,0,0,0,0,0,0,0,0,0,0.5,Auburn,NA,5
+2021,177,Cameron McGrone,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,5
+2021,178,Shemar Jean-Charles,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Appalachian St.,1,5
+2021,179,Simi Fehoko,WR,0,0,0,0,0,0,0,0,10,139,1,NA,Stanford,NA,5
+2021,180,Talanoa Hufanga,S,0,0,0,0,0,0,0,0,0,0,0,2,USC,7,5
+2021,181,Cornell Powell,WR,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,NA,5
+2021,182,Adetokunbo Ogundeji,DL,0,0,0,0,0,0,0,0,0,0,0,3,Notre Dame,NA,5
+2021,183,Avery Williams,CB,0,0,0,0,0,22,109,1,13,61,0,NA,Boise St.,NA,5
+2021,184,Ben Mason,FB,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,5
+2021,185,Nick Niemann,LB,0,0,0,0,0,1,0,0,0,0,0,NA,Iowa,1,6
+2021,186,Hamsah Nasirildeen,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida St.,NA,6
+2021,187,Frank Darby,WR,0,0,0,0,0,0,0,0,2,29,0,NA,Arizona St.,NA,6
+2021,188,Joshuah Bledsoe,S,0,0,0,0,0,0,0,0,0,0,0,NA,Missouri,NA,6
+2021,189,Marlon Tuipulotu,DL,0,0,0,0,0,0,0,0,0,0,0,3,USC,NA,6
+2021,190,Trey Hill,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,6
+2021,191,Tarron Jackson,DE,0,0,0,0,0,0,0,0,0,0,0,1,Coastal Carolina,NA,6
+2021,192,Quinton Bohanna,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Kentucky,NA,6
+2021,193,Deonte Brown,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,6
+2021,194,Elijah Mitchell,RB,0,0,0,0,0,327,1523,9,28,158,1,NA,Louisiana,NA,6
+2021,195,Roy Lopez,DL,0,0,0,0,0,0,0,0,0,0,0,3,Arizona,NA,6
+2021,196,Gary Brightwell,RB,0,0,0,0,0,41,164,1,11,92,0,NA,Arizona,NA,6
+2021,197,William Sherman,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Colorado,NA,6
+2021,198,Larry Rountree,RB,0,0,0,0,0,49,106,1,3,13,0,NA,Missouri,NA,6
+2021,199,Jaylen Twyman,DL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Pittsburgh,NA,6
+2021,200,Brandin Echols,CB,0,0,0,0,0,0,0,0,1,18,0,NA,Kentucky,6,6
+2021,201,Rodarius Williams,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma St.,1,6
+2021,202,Chris Evans,RB,0,0,0,0,0,19,89,0,19,188,3,NA,Michigan,NA,6
+2021,203,Marquez Stevenson,WR,0,0,0,0,0,0,0,0,0,0,0,NA,Houston,NA,6
+2021,204,Shi Smith,WR,0,0,0,0,0,1,-3,0,28,400,2,NA,South Carolina,NA,6
+2021,205,Racey McMath,WR,0,0,0,0,0,1,4,0,4,48,0,NA,LSU,NA,6
+2021,206,Landon Young,T,0,0,0,0,0,0,0,0,0,0,0,NA,Kentucky,NA,6
+2021,207,Jonathan Marshall,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Arkansas,NA,6
+2021,208,Stone Forsythe,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,NA,6
+2021,209,Jalen Camp,WR,0,0,0,0,0,0,0,0,1,7,0,NA,Georgia Tech,NA,6
+2021,210,Victor Dimukeje,DE,0,0,0,0,0,0,0,0,0,0,0,4,Duke,NA,6
+2021,211,Demetric Felton,RB,0,0,0,0,0,8,20,0,20,189,2,NA,UCLA,NA,6
+2021,212,Damar Hamlin,DB,0,0,0,0,0,0,0,0,0,0,0,1.5,Pittsburgh,2,6
+2021,213,Rachad Wildgoose,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,6
+2021,214,Cole Van Lanen,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,6
+2021,215,Brady Breeze,S,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,6
+2021,216,Quincy Roche,DL,0,0,0,0,0,0,0,0,0,0,0,2.5,Miami (FL),NA,6
+2021,217,Khalil Herbert,RB,0,0,0,0,0,400,1905,9,53,312,2,NA,Virginia Tech,NA,6
+2021,218,Sam Ehlinger,QB,64,101,573,3,3,20,96,0,0,0,0,NA,Texas,NA,6
+2021,219,Seth Williams,WR,0,0,0,0,0,0,0,0,1,34,0,NA,Auburn,NA,6
+2021,220,Isaiah McDuffie,LB,0,0,0,0,0,0,0,0,0,0,0,1,Boston Col.,NA,6
+2021,221,Dazz Newsome,WR,0,0,0,0,0,0,0,0,2,23,0,NA,North Carolina,NA,6
+2021,222,Thomas Fletcher,LS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Alabama,NA,6
+2021,223,Tay Gowan,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Central Florida,NA,6
+2021,224,JaCoby Stevens,S,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,6
+2021,225,Camaron Cheeseman,LS,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,6
+2021,226,Trey Smith,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Tennessee,NA,6
+2021,227,Israel Mukuamu,DB,0,0,0,0,0,0,0,0,0,0,0,NA,South Carolina,3,6
+2021,228,Thomas Graham,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,6
+2021,229,Mike Strachan,WR,0,0,0,0,0,0,0,0,6,130,0,NA,Charleston (WV),NA,7
+2021,230,Jimmy Morrissey,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Pittsburgh,NA,7
+2021,231,Larnel Coleman,T,0,0,0,0,0,0,0,0,0,0,0,NA,Massachusetts,NA,7
+2021,232,Phil Hoskins,DT,0,0,0,0,0,0,0,0,0,0,0,1,Kentucky,NA,7
+2021,233,Jake Funk,RB,0,0,0,0,0,4,15,0,1,12,0,NA,Maryland,NA,7
+2021,234,Patrick Johnson,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Tulane,NA,7
+2021,235,Wyatt Hubert,DE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Kansas St.,NA,7
+2021,236,Jack Anderson,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Texas Tech,NA,7
+2021,237,Kary Vincent Jr.,CB,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,7
+2021,238,Matt Farniok,G,0,0,0,0,0,0,0,0,0,0,0,NA,Nebraska,NA,7
+2021,239,Jonathon Cooper,DE,0,0,0,0,0,0,0,0,0,0,0,26,Ohio St.,1,7
+2021,240,William Bradley-King,OLB,0,0,0,0,0,0,0,0,0,0,0,0.5,Baylor,NA,7
+2021,241,Mark Webb,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,7
+2021,242,Tre Nixon,WR,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Central Florida,NA,7
+2021,243,James Wiggins,S,0,0,0,0,0,0,0,0,0,0,0,NA,Cincinnati,NA,7
+2021,244,Gerrid Doaks,RB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cincinnati,NA,7
+2021,245,Tre Norwood,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,1,7
+2021,246,Shaka Toney,DE,0,0,0,0,0,0,0,0,0,0,0,1.5,Penn St.,NA,7
+2021,247,Michal Menet,OL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Penn St.,NA,7
+2021,248,Will Fries,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,7
+2021,249,Ben Skowronek,WR,0,0,0,0,0,3,26,1,64,666,2,NA,Notre Dame,NA,7
+2021,250,Khyiris Tonga,DL,0,0,0,0,0,0,0,0,0,0,0,0.5,BYU,NA,7
+2021,251,Chris Wilcox,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,BYU,NA,7
+2021,252,Chris Garrett,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Concordia-St.Paul (MN),NA,7
+2021,253,Marquiss Spencer,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,7
+2021,254,Pressley Harvin III,P,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia Tech,NA,7
+2021,255,Kawaan Baker,WR,0,0,0,0,0,0,0,0,0,0,0,NA,South Alabama,NA,7
+2021,256,Kylin Hill,RB,0,0,0,0,0,11,31,0,1,5,0,NA,Mississippi St.,NA,7
+2021,257,Jermar Jefferson,RB,0,0,0,0,0,21,96,2,5,33,0,NA,Oregon St.,NA,7
+2021,258,Dax Milne,WR,0,0,0,0,0,1,1,0,15,120,1,NA,BYU,NA,7
+2021,259,Grant Stuard,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Houston,NA,7
+2022,1,Travon Walker,DE,0,0,0,0,0,0,0,0,0,0,0,26,Georgia,1,1
+2022,2,Aidan Hutchinson,DE,0,0,0,0,0,0,0,0,0,0,0,33.5,Michigan,4,1
+2022,3,Derek Stingley Jr.,CB,0,0,0,0,0,0,0,0,0,0,0,1,LSU,12,1
+2022,4,Sauce Gardner,CB,0,0,0,0,0,0,0,0,0,0,0,1,Cincinnati,3,1
+2022,5,Kayvon Thibodeaux,DE,0,0,0,0,0,0,0,0,0,0,0,23.5,Oregon,NA,1
+2022,6,Ikem Ekwonu,T,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina St.,NA,1
+2022,7,Evan Neal,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,1
+2022,8,Drake London,WR,1,1,22,0,0,1,-3,0,265,3311,16,NA,USC,NA,1
+2022,9,Charles Cross,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,1
+2022,10,Garrett Wilson,WR,0,2,0,0,0,10,9,0,312,3631,18,NA,Ohio St.,NA,1
+2022,11,Chris Olave,WR,0,1,0,0,1,1,7,0,224,2809,11,NA,Ohio St.,NA,1
+2022,12,Jameson Williams,WR,0,0,0,0,0,18,131,2,94,1619,11,NA,Alabama,NA,1
+2022,13,Jordan Davis,DT,0,0,0,0,0,0,0,0,0,0,0,4.5,Georgia,NA,1
+2022,14,Kyle Hamilton,S,0,0,0,0,0,0,0,0,0,0,0,7,Notre Dame,5,1
+2022,15,Kenyon Green,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Texas A&M,NA,1
+2022,16,Jahan Dotson,WR,0,0,0,0,0,3,6,0,109,1351,11,NA,Penn St.,NA,1
+2022,17,Zion Johnson,G,0,0,0,0,0,0,0,0,0,0,0,NA,Boston Col.,NA,1
+2022,18,Treylon Burks,WR,0,0,0,0,0,11,66,0,53,699,1,NA,Arkansas,NA,1
+2022,19,Trevor Penning,T,0,0,0,0,0,0,0,0,0,0,0,NA,Northern Iowa,NA,1
+2022,20,Kenny Pickett,QB,471,755,4765,15,14,106,306,5,0,0,0,NA,Pittsburgh,NA,1
+2022,21,Trent McDuffie,CB,0,0,0,0,0,0,0,0,0,0,0,4.5,Washington,3,1
+2022,22,Quay Walker,LB,0,0,0,0,0,0,0,0,0,0,0,6.5,Georgia,1,1
+2022,23,Kaiir Elam,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,2,1
+2022,24,Tyler Smith,OL,0,0,0,0,0,0,0,0,1,0,0,NA,Tulsa,NA,1
+2022,25,Tyler Linderbaum,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Iowa,NA,1
+2022,26,Jermaine Johnson II,LB,0,0,0,0,0,0,0,0,0,0,0,10,Florida St.,1,1
+2022,27,Devin Lloyd,LB,0,0,0,0,0,0,0,0,0,0,0,2,Utah,8,1
+2022,28,Devonte Wyatt,DT,0,0,0,0,0,0,0,0,0,0,0,14,Georgia,NA,1
+2022,29,Cole Strange,OL,0,0,0,0,0,0,0,0,0,3,0,NA,Chattanooga,NA,1
+2022,30,George Karlaftis III,DE,0,0,0,0,0,0,0,0,0,0,0,28,Purdue,NA,1
+2022,31,Daxton Hill,DB,0,0,0,0,0,0,0,0,0,0,0,2.5,Michigan,3,1
+2022,32,Lewis Cine,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,1
+2022,33,Logan Hall,DE,0,0,0,0,0,0,0,0,0,0,0,8.5,Houston,NA,2
+2022,34,Christian Watson,WR,0,0,0,0,0,15,114,2,98,1653,14,NA,North Dakota St.,NA,2
+2022,35,Roger McCreary,CB,0,0,0,0,0,0,0,0,0,0,0,3,Auburn,3,2
+2022,36,Breece Hall,RB,0,0,0,0,0,578,2684,14,169,1442,8,NA,Iowa St.,NA,2
+2022,37,Jalen Pitre,S,0,0,0,0,0,0,0,0,0,0,0,1,Baylor,9,2
+2022,38,Arnold Ebiketie,DE,0,0,0,0,0,0,0,0,0,0,0,14.5,Penn St.,NA,2
+2022,39,Kyler Gordon,CB,0,0,0,0,0,0,0,0,0,0,0,1.5,Washington,5,2
+2022,40,Boye Mafe,DE,0,0,0,0,0,0,0,0,0,0,0,18,Minnesota,NA,2
+2022,41,Kenneth Walker III,RB,0,0,0,0,0,668,2858,27,109,781,2,NA,Michigan St.,NA,2
+2022,42,Andrew Booth,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,NA,2
+2022,43,Wan'Dale Robinson,WR,0,0,0,0,0,15,106,1,199,1718,6,NA,Kentucky,NA,2
+2022,44,John Metchie,WR,0,0,0,0,0,1,4,0,44,430,1,NA,Alabama,NA,2
+2022,45,David Ojabo,LB,0,0,0,0,0,0,0,0,0,0,0,4,Michigan,NA,2
+2022,46,Josh Paschal,DE,0,0,0,0,0,0,0,0,0,0,0,5,Kentucky,NA,2
+2022,47,Phidarian Mathis,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,2
+2022,48,Jaquan Brisker,S,0,0,0,0,0,0,0,0,0,0,0,6,Penn St.,3,2
+2022,49,Alontae Taylor,DB,0,0,0,0,0,0,0,0,0,0,0,6,Tennessee,2,2
+2022,50,Tyquan Thornton,WR,0,0,0,0,0,6,67,1,52,657,5,NA,Baylor,NA,2
+2022,51,Cam Jurgens,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Nebraska,NA,2
+2022,52,George Pickens,WR,0,0,0,0,0,8,36,1,197,3198,17,NA,Georgia,NA,2
+2022,53,Alec Pierce,WR,0,0,0,0,0,0,0,0,119,2102,11,NA,Cincinnati,NA,2
+2022,54,Skyy Moore,WR,0,0,0,0,0,7,48,0,44,504,1,NA,Western Michigan,NA,2
+2022,55,Trey McBride,TE,0,0,0,0,0,1,2,1,250,2511,7,NA,Colorado St.,NA,2
+2022,56,Sam Williams,DE,0,0,0,0,0,0,0,0,0,0,0,9.5,Mississippi,NA,2
+2022,57,Luke Goedeke,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Central Michigan,NA,2
+2022,58,Troy Andersen,LB,0,0,0,0,0,0,0,0,0,0,0,0.5,Montana St.,1,2
+2022,59,Ed Ingram,G,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,2
+2022,60,Cam Taylor-Britt,CB,0,0,0,0,0,0,0,0,0,0,0,0.5,Nebraska,7,2
+2022,61,Drake Jackson,OLB,0,0,0,0,0,0,0,0,0,0,0,6,USC,1,2
+2022,62,Bryan Cook,S,0,0,0,0,0,0,0,0,0,0,0,1,Cincinnati,3,2
+2022,63,James Cook,RB,0,0,0,0,0,623,3088,25,109,972,7,NA,Georgia,NA,2
+2022,64,Nik Bonitto,OLB,0,0,0,0,0,0,0,0,0,0,0,30,Oklahoma,1,2
+2022,65,Luke Fortner,G,0,0,0,0,0,0,0,0,0,0,0,NA,Kentucky,NA,3
+2022,66,Brian Asamoah,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,3
+2022,67,Joshua Ezeudu,OL,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina,NA,3
+2022,68,Martin Emerson,CB,0,0,0,0,0,0,0,0,0,0,0,1,Mississippi St.,4,3
+2022,69,Nicholas Petit-Frere,T,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,3
+2022,70,Chad Muma,LB,0,0,0,0,0,0,0,0,0,0,0,1.5,Wyoming,NA,3
+2022,71,Velus Jones Jr.,WR,0,0,0,0,0,20,165,1,12,135,1,NA,Tennessee,NA,3
+2022,72,Abraham Lucas,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Washington St.,NA,3
+2022,73,Jelani Woods,TE,0,0,0,0,0,0,0,0,25,312,3,NA,Virginia,NA,3
+2022,74,Desmond Ridder,QB,374,588,4002,16,14,78,293,5,1,-6,0,NA,Cincinnati,NA,3
+2022,75,Christian Harris,LB,0,0,0,0,0,0,0,0,0,0,0,4,Alabama,1,3
+2022,76,Travis Jones,DT,0,0,0,0,0,0,0,0,0,0,0,3.5,Connecticut,NA,3
+2022,77,Bernhard Raimann,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Central Michigan,NA,3
+2022,78,Alex Wright,DE,0,0,0,0,0,0,0,0,0,0,0,8,Ala-Birmingham,NA,3
+2022,79,JT Woods,S,0,0,0,0,0,0,0,0,0,0,0,NA,Baylor,NA,3
+2022,80,Greg Dulcich,TE,0,0,0,0,0,0,0,0,41,464,2,NA,UCLA,NA,3
+2022,81,Cordale Flott,CB,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,2,3
+2022,82,DeAngelo Malone,DE,0,0,0,0,0,0,0,0,0,0,0,3,Western Kentucky,NA,3
+2022,83,Nakobe Dean,LB,0,0,0,0,0,0,0,0,0,0,0,3.5,Georgia,1,3
+2022,84,DeMarvin Leal,DT,0,0,0,0,0,0,0,0,0,0,0,1,Texas A&M,NA,3
+2022,85,Marcus Jones,CB,0,0,0,0,0,1,5,0,5,96,1,NA,Houston,4,3
+2022,86,Malik Willis,QB,75,120,900,3,3,52,282,2,0,0,0,NA,Liberty,NA,3
+2022,87,Cameron Thomas,DE,0,0,0,0,0,0,0,0,0,0,0,4.5,San Diego St.,NA,3
+2022,88,Jalen Tolbert,WR,0,0,0,0,0,0,0,0,83,991,9,NA,South Alabama,NA,3
+2022,89,Terrel Bernard,LB,0,0,0,0,0,0,0,0,0,0,0,7.5,Baylor,6,3
+2022,90,Dylan Parham,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Memphis,NA,3
+2022,91,Rachaad White,RB,0,0,0,0,0,582,2233,13,177,1296,11,NA,Arizona St.,NA,3
+2022,92,Sean Rhyan,OL,0,0,0,0,0,0,0,0,0,0,0,NA,UCLA,NA,3
+2022,93,Tyrion Davis-Price,RB,0,0,0,0,0,43,127,0,0,0,0,NA,LSU,NA,3
+2022,94,Matt Corral,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mississippi,NA,3
+2022,95,Zachary Carter,DE,0,0,0,0,0,0,0,0,0,0,0,2,Florida,NA,3
+2022,96,Nick Cross,DB,0,0,0,0,0,0,0,0,0,0,0,2.5,Maryland,4,3
+2022,97,Kerby Joseph,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Illinois,20,3
+2022,98,Brian Robinson Jr.,RB,0,0,0,0,0,597,2437,15,67,590,5,NA,Alabama,NA,3
+2022,99,David Bell,WR,0,0,0,0,0,0,0,0,41,408,3,NA,Purdue,NA,3
+2022,100,Myjai Sanders,DE,0,0,0,0,0,0,0,0,0,0,0,3,Cincinnati,NA,3
+2022,101,Jeremy Ruckert,TE,0,0,0,0,0,0,0,0,43,336,1,NA,Ohio St.,NA,3
+2022,102,Channing Tindall,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,3
+2022,103,Leo Chenal,LB,0,0,0,0,0,0,0,0,0,0,0,5.5,Wisconsin,1,3
+2022,104,Logan Bruss,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,3
+2022,105,Danny Gray,WR,0,0,0,0,0,1,9,0,1,10,0,NA,SMU,NA,3
+2022,106,Cade Otton,TE,0,0,0,0,0,1,-4,0,158,1561,10,NA,Washington,NA,4
+2022,107,Dameon Pierce,RB,0,0,0,0,0,415,1674,8,45,268,1,NA,Florida,NA,4
+2022,108,Perrion Winfrey,DT,0,0,0,0,0,0,0,0,0,0,0,0.5,Oklahoma,NA,4
+2022,109,Coby Bryant,CB,0,0,0,0,0,0,0,0,0,0,0,2,Cincinnati,5,4
+2022,110,Daniel Faalele,T,0,0,0,0,0,0,0,0,0,0,0,NA,Minnesota,NA,4
+2022,111,Max Mitchell,T,0,0,0,0,0,0,0,0,0,0,0,NA,Louisiana,NA,4
+2022,112,Daniel Bellinger,TE,0,0,0,0,0,1,2,1,76,733,2,NA,San Diego St.,NA,4
+2022,113,Percy Butler,S,0,0,0,0,0,0,0,0,0,0,0,NA,Louisiana,NA,4
+2022,114,Dane Belton,DB,0,0,0,0,0,1,10,0,0,0,0,2,Iowa,5,4
+2022,115,Damarri Mathis,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Pittsburgh,NA,4
+2022,116,Eyioma Uwazurike,DE,0,0,0,0,0,0,0,0,0,0,0,1.5,Iowa St.,NA,4
+2022,117,Micheal Clemons,DT,0,0,0,0,0,0,0,0,0,0,0,7.5,Texas A&M,NA,4
+2022,118,Akayleb Evans,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Missouri,1,4
+2022,119,Jalyn Armour-Davis,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,4
+2022,120,Brandon Smith,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,4
+2022,121,Jack Jones,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Arizona St.,7,4
+2022,122,Zamir White,RB,0,0,0,0,0,196,729,2,24,147,0,NA,Georgia,NA,4
+2022,123,Isaiah Spiller,RB,0,0,0,0,0,55,137,0,9,47,0,NA,Texas A&M,NA,4
+2022,124,Cade York,K,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,4
+2022,125,Erik Ezukanma,WR,0,0,0,0,0,5,22,0,1,3,0,NA,Texas Tech,NA,4
+2022,126,Neil Farrell,DT,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,4
+2022,127,Pierre Strong,RB,0,0,0,0,0,99,499,2,26,193,0,NA,South Dakota St.,NA,4
+2022,128,Charlie Kolar,TE,0,0,0,0,0,1,2,0,23,299,2,NA,Iowa St.,NA,4
+2022,129,Jake Ferguson,TE,0,0,0,0,0,0,0,0,190,1701,10,NA,Wisconsin,NA,4
+2022,130,Jordan Stout,P,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,4
+2022,131,Hassan Haskins,RB,0,0,0,0,0,64,195,2,15,108,1,NA,Michigan,NA,4
+2022,132,Romeo Doubs,WR,0,0,0,0,0,1,11,0,160,1879,19,NA,Nevada,NA,4
+2022,133,Jake Camarda,P,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,4
+2022,134,Spencer Burford,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Texas-San Antonio,NA,4
+2022,135,Joshua Williams,CB,0,0,0,0,0,0,0,0,0,0,0,1,Fayetteville St.,1,4
+2022,136,Cordell Volson,T,0,0,0,0,0,0,0,0,0,0,0,NA,North Dakota St.,NA,4
+2022,137,Bailey Zappe,QB,208,335,2223,12,14,29,85,1,1,-6,0,NA,Western Kentucky,NA,4
+2022,138,Calvin Austin III,WR,0,0,0,0,0,11,57,1,63,867,7,NA,Memphis,NA,4
+2022,139,Isaiah Likely,TE,0,0,0,0,0,0,0,0,109,1273,14,NA,Coastal Carolina,NA,4
+2022,140,Zach Tom,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Wake Forest,NA,4
+2022,141,Damarion Williams,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Houston,NA,4
+2022,142,Cobie Durant,DB,0,0,0,0,0,0,0,0,0,0,0,2,South Carolina St.,5,4
+2022,143,Chigoziem Okonkwo,TE,0,0,0,0,0,6,25,0,155,1629,6,NA,Maryland,NA,4
+2022,144,Sam Howell,QB,404,645,4139,22,23,54,300,6,1,4,0,NA,North Carolina,NA,5
+2022,145,Darian Kinnard,T,0,0,0,0,0,0,0,0,0,0,0,NA,Kentucky,NA,5
+2022,146,Micah McFadden,LB,0,0,0,0,0,0,0,0,0,0,0,6,Indiana,1,5
+2022,147,D.J. Davidson,DT,0,0,0,0,0,0,0,0,0,0,0,2.5,Arizona St.,NA,5
+2022,148,Khalil Shakir,WR,0,0,0,0,0,4,19,0,147,1828,9,NA,Boise St.,NA,5
+2022,149,Cole Turner,TE,0,0,0,0,0,0,0,0,13,143,0,NA,Nevada,NA,5
+2022,150,Thomas Booker,DE,0,0,0,0,0,0,0,0,0,0,0,1.5,Stanford,NA,5
+2022,151,Tyler Allgeier,RB,0,0,0,0,0,576,2517,12,49,424,2,NA,BYU,NA,5
+2022,152,Delarrin Turner-Yell,S,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,5
+2022,153,Riq Woolen,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Texas-San Antonio,11,5
+2022,154,Snoop Conner,RB,0,0,0,0,0,12,42,1,0,0,0,NA,Mississippi,NA,5
+2022,155,Matt Waletzko,OL,0,0,0,0,0,0,0,0,0,0,0,NA,North Dakota,NA,5
+2022,156,Jerome Ford,RB,0,0,0,0,0,334,1446,7,94,598,5,NA,Cincinnati,NA,5
+2022,157,Zyon McCollum,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Sam Houston St.,2,5
+2022,158,Tyreke Smith,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,5
+2022,159,Eric Johnson,DT,0,0,0,0,0,0,0,0,0,0,0,1,Missouri State,NA,5
+2022,160,Otito Ogbonnia,DT,0,0,0,0,0,0,0,0,0,0,0,NA,UCLA,NA,5
+2022,161,D'Marco Jackson,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Appalachian St.,NA,5
+2022,162,Montrell Washington,WR,0,0,0,0,0,5,30,0,4,2,0,NA,Samford,NA,5
+2022,163,Kyle Philips,WR,0,0,0,0,0,0,0,0,23,259,0,NA,UCLA,NA,5
+2022,164,Kyren Williams,RB,0,0,0,0,0,661,2950,27,91,582,8,NA,Notre Dame,NA,5
+2022,165,Esezi Otomewo,DT,0,0,0,0,0,0,0,0,0,0,0,0.5,Minnesota,NA,5
+2022,166,Tycen Anderson,S,0,0,0,0,0,0,0,0,0,0,0,NA,Toledo,NA,5
+2022,167,DaRon Bland,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Fresno St.,14,5
+2022,168,Braxton Jones,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Southern Utah,NA,5
+2022,169,Ty Chandler,RB,0,0,0,0,0,164,663,3,27,201,0,NA,North Carolina,NA,5
+2022,170,Teagan Quitoriano,TE,0,0,0,0,0,0,0,0,9,146,2,NA,Oregon St.,NA,5
+2022,171,Luke Wattenberg,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Washington,NA,5
+2022,172,Samuel Womack,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Toledo,3,5
+2022,173,Marcus McKethan,OL,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina,NA,5
+2022,174,Dominique Robinson,DE,0,0,0,0,0,0,0,0,0,0,0,3,Miami (OH),NA,5
+2022,175,Matthew Butler,DT,0,0,0,0,0,0,0,0,0,0,0,0.5,Tennessee,NA,5
+2022,176,Damone Clark,LB,0,0,0,0,0,0,0,0,0,0,0,0.5,LSU,NA,5
+2022,177,James Mitchell,TE,0,0,0,0,0,0,0,0,16,169,1,NA,Virginia Tech,NA,5
+2022,178,John Ridgeway,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Arkansas,NA,5
+2022,179,Kingsley Enagbare,DE,0,0,0,0,0,0,0,0,0,0,0,9.5,South Carolina,NA,5
+2022,180,Matt Araiza,P,0,0,0,0,0,0,0,0,0,0,0,NA,San Diego St.,NA,6
+2022,181,Kyron Johnson,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Kansas,NA,6
+2022,182,Darrian Beavers,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Cincinnati,NA,6
+2022,183,Kevin Harris,RB,0,0,0,0,0,34,117,2,3,58,0,NA,South Carolina,NA,6
+2022,184,Vederian Lowe,OL,0,0,0,0,0,0,0,0,1,4,1,NA,Illinois,NA,6
+2022,185,Christian Benford,DB,0,0,0,0,0,0,0,0,0,0,0,1,Villanova,5,6
+2022,186,Zachary Thomas,OL,0,0,0,0,0,0,0,0,0,0,0,NA,San Diego St.,NA,6
+2022,187,Nick Zakelj,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Fordham,NA,6
+2022,188,Malcolm Rodriguez,LB,0,0,0,0,0,0,0,0,1,6,0,3,Oklahoma St.,NA,6
+2022,189,Amare Barno,DE,0,0,0,0,0,0,0,0,0,0,0,3,Virginia Tech,NA,6
+2022,190,Justin Shaffer,OL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,NA,6
+2022,191,Jalen Nailor,WR,0,0,0,0,0,4,11,0,51,747,8,NA,Michigan St.,NA,6
+2022,192,Andrew Ogletree,TE,0,0,0,0,0,0,0,0,18,256,3,NA,Youngstown St.,NA,6
+2022,193,Devin Harper,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma St.,NA,6
+2022,194,Jordan Jackson,DT,0,0,0,0,0,0,0,0,0,0,0,1,Air Force,NA,6
+2022,195,Jamaree Salyer,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,6
+2022,196,Tyler Badie,RB,0,0,0,0,0,13,89,0,10,84,1,NA,Missouri,NA,6
+2022,197,Gregory Junior,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Ouachita Baptist,NA,6
+2022,198,Grant Calcaterra,TE,0,0,0,0,0,0,0,0,37,458,1,NA,SMU,NA,6
+2022,199,Cade Mays,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Tennessee,NA,6
+2022,200,Sam Roberts,DE,0,0,0,0,0,0,0,0,0,0,0,NA,NW Missouri St.,NA,6
+2022,201,Keaontay Ingram,RB,0,0,0,0,0,62,134,1,8,47,0,NA,USC,NA,6
+2022,202,Michael Woods II,WR,0,0,0,0,0,1,-5,0,12,110,0,NA,Oklahoma,NA,6
+2022,203,Trestan Ebner,RB,0,0,0,0,0,24,54,0,2,8,0,NA,Baylor,NA,6
+2022,204,Theo Jackson,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Tennessee,2,6
+2022,205,Austin Deculus,T,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,6
+2022,206,Matt Henningsen,DE,0,0,0,0,0,0,0,0,0,0,0,1,Wisconsin,NA,6
+2022,207,Doug Kramer,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Illinois,NA,6
+2022,208,Connor Heyward,TE,0,1,0,0,0,4,29,0,42,364,2,NA,Michigan St.,NA,6
+2022,209,Luke Tenuta,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Virginia Tech,NA,6
+2022,210,Chasen Hines,G,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,LSU,NA,6
+2022,211,Quentin Lake,DB,0,0,0,0,0,0,0,0,0,0,0,3,UCLA,NA,6
+2022,212,Derion Kendrick,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,3,6
+2022,213,John FitzPatrick,TE,0,0,0,0,0,0,0,0,5,28,1,NA,Georgia,NA,6
+2022,214,Ja'Sir Taylor,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Wake Forest,1,6
+2022,215,Lecitus Smith,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Virginia Tech,NA,6
+2022,216,Curtis Brooks,DT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Cincinnati,NA,6
+2022,217,James Houston,LB,0,0,0,0,0,0,0,0,0,0,0,12.5,Jackson St.,NA,6
+2022,218,Ko Kieft,TE,0,0,0,0,0,0,0,0,8,82,2,NA,Minnesota,NA,6
+2022,219,Chance Campbell,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi,NA,6
+2022,220,Kalia Davis,DT,0,0,0,0,0,0,0,0,0,0,0,1,Central Florida,1,6
+2022,221,Tariq Castro-Fields,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,6
+2022,222,Montaric Brown,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Arkansas,1,7
+2022,223,Isaiah Thomas,DE,0,0,0,0,0,0,0,0,0,0,0,1,Oklahoma,NA,7
+2022,224,Cameron Goode,OLB,0,0,0,0,0,0,0,0,0,0,0,NA,California,NA,7
+2022,225,Mark Robinson,LB,0,0,0,0,0,0,0,0,0,0,0,1,Mississippi,NA,7
+2022,226,Ja'Tyre Carter,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Southern,NA,7
+2022,227,Nick Muse,TE,0,0,0,0,0,0,0,0,1,22,0,NA,South Carolina,NA,7
+2022,228,Tariq Carpenter,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia Tech,NA,7
+2022,229,Bo Melton,WR,0,0,0,0,0,11,75,0,24,309,1,NA,Rutgers,NA,7
+2022,230,Chris Paul,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Tulsa,NA,7
+2022,231,Baylon Spector,LB,0,0,0,0,0,0,0,0,0,0,0,1.5,Clemson,NA,7
+2022,232,Faion Hicks,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,7
+2022,233,Dareke Young,WR,0,0,0,0,0,0,0,0,4,72,0,NA,Lenoir-Rhyne,NA,7
+2022,234,Jonathan Ford,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Miami (FL),NA,7
+2022,235,Daniel Hardy,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Montana St.,NA,7
+2022,236,Deane Leonard,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi,NA,7
+2022,237,Chase Lucas,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Arizona St.,NA,7
+2022,238,Thayer Munford,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,7
+2022,239,Rodney Thomas II,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Yale,6,7
+2022,240,Christian Holmes,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma St.,NA,7
+2022,241,Chris Oladokun,QB,0,0,0,0,0,1,5,0,0,0,0,NA,South Dakota St.,NA,7
+2022,242,Kalon Barnes,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Baylor,NA,7
+2022,243,Jaylen Watson,DB,0,0,0,0,0,0,0,0,0,0,0,3,Washington St.,2,7
+2022,244,Christian Matthew,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Valdosta St.,NA,7
+2022,245,Andrew Stueber,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,7
+2022,246,Dawson Deaton,OL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Texas Tech,NA,7
+2022,247,Skylar Thompson,QB,81,138,721,1,3,15,25,0,0,0,0,NA,Kansas St.,NA,7
+2022,248,Andre Anthony,DE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,LSU,NA,7
+2022,249,Rasheed Walker,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,7
+2022,250,Brittain Brown,RB,0,0,0,0,0,0,0,0,0,0,0,NA,UCLA,NA,7
+2022,251,Isiah Pacheco,RB,0,0,0,0,0,497,2238,13,78,499,3,NA,Rutgers,NA,7
+2022,252,Jeff Gunter,OLB,0,0,0,0,0,0,0,0,0,0,0,NA,Coastal Carolina,NA,7
+2022,253,Russ Yeast,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Kansas St.,NA,7
+2022,254,Elijah Hicks,S,0,0,0,0,0,0,0,0,0,0,0,NA,California,NA,7
+2022,255,Trenton Gill,P,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina St.,NA,7
+2022,256,Jesse Luketa,LB,0,0,0,0,0,0,0,0,0,0,0,3,Penn St.,NA,7
+2022,257,Marquis Hayes,OL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Oklahoma,NA,7
+2022,258,Samori Toure,WR,0,0,0,0,0,0,0,0,13,160,1,NA,Nebraska,NA,7
+2022,259,Nazeeh Johnson,S,0,0,0,0,0,0,0,0,0,0,0,1,Marshall,NA,7
+2022,260,Zander Horvath,RB,0,0,0,0,0,4,8,0,5,8,2,NA,Purdue,NA,7
+2022,261,AJ Arcuri,OT,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan St.,NA,7
+2022,262,Brock Purdy,QB,770,1142,10104,68,31,134,510,8,0,0,0,NA,Iowa St.,NA,7
+2023,1,Bryce Young,QB,655,1085,6231,33,23,95,556,7,0,0,0,NA,Alabama,NA,1
+2023,2,C.J. Stroud,QB,757,1175,8911,51,20,109,522,3,1,0,0,NA,Ohio St.,NA,1
+2023,3,Will Anderson,LB,0,0,0,0,0,0,0,0,0,0,0,21,Alabama,NA,1
+2023,4,Anthony Richardson,QB,177,350,2400,11,13,115,634,10,2,8,0,NA,Florida,NA,1
+2023,5,Devon Witherspoon,DB,0,0,0,0,0,0,0,0,0,0,0,4.5,Illinois,1,1
+2023,6,Paris Johnson,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,1
+2023,7,Tyree Wilson,OLB,0,0,0,0,0,0,0,0,0,0,0,10,Texas Tech,NA,1
+2023,8,Bijan Robinson,RB,0,0,0,0,0,582,2746,19,137,1188,6,NA,Texas,NA,1
+2023,9,Jalen Carter,DL,0,0,0,0,0,0,0,0,0,0,0,10.5,Georgia,NA,1
+2023,10,Darnell Wright,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Tennessee,NA,1
+2023,11,Peter Skoronski,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Northwestern,NA,1
+2023,12,Jahmyr Gibbs,RB,0,0,0,0,0,502,2682,30,126,945,6,NA,Alabama,NA,1
+2023,13,Lukas Van Ness,DL,0,0,0,0,0,0,0,0,0,0,0,7.5,Iowa,NA,1
+2023,14,Broderick Jones,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,1
+2023,15,Will McDonald,DE,0,0,0,0,0,0,0,0,0,0,0,15.5,Iowa St.,NA,1
+2023,16,Emmanuel Forbes,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,2,1
+2023,17,Christian Gonzalez,DB,0,0,0,0,0,0,0,0,0,0,0,1,Oregon,3,1
+2023,18,Jack Campbell,LB,0,0,0,0,0,0,0,0,0,0,0,4.5,Iowa,NA,1
+2023,19,Calijah Kancey,DL,0,0,0,0,0,0,0,0,0,0,0,11.5,Pittsburgh,NA,1
+2023,20,Jaxon Smith-Njigba,WR,1,1,35,0,0,8,37,0,197,2292,12,NA,Ohio St.,NA,1
+2023,21,Quentin Johnston,WR,0,0,0,0,0,8,22,0,119,1519,14,NA,TCU,NA,1
+2023,22,Zay Flowers,WR,0,0,0,0,0,20,124,1,179,2294,10,NA,Boston Col.,NA,1
+2023,23,Jordan Addison,WR,0,0,0,0,0,4,22,1,142,1941,20,NA,USC,NA,1
+2023,24,Deonte Banks,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Maryland,2,1
+2023,25,Dalton Kincaid,TE,0,0,0,0,0,0,0,0,137,1408,7,NA,Utah,NA,1
+2023,26,Mazi Smith,DL,0,0,0,0,0,0,0,0,0,0,0,2,Michigan,NA,1
+2023,27,Anton Harrison,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,1
+2023,28,Myles Murphy,DE,0,0,0,0,0,0,0,0,0,0,0,4.5,Clemson,NA,1
+2023,29,Bryan Bresee,DT,0,0,0,0,0,0,0,0,0,0,0,13,Clemson,NA,1
+2023,30,Nolan Smith,OLB,0,0,0,0,0,0,0,0,0,0,0,7.5,Georgia,NA,1
+2023,31,Felix Anudike-Uzomah,DE,0,0,0,0,0,0,0,0,0,0,0,3,Kansas St.,NA,1
+2023,32,Joey Porter Jr.,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,2,2
+2023,33,Will Levis,QB,339,556,3899,21,16,70,240,1,0,0,0,NA,Kentucky,NA,2
+2023,34,Sam LaPorta,TE,0,0,0,0,0,1,4,0,167,1884,18,NA,Iowa,NA,2
+2023,35,Michael Mayer,TE,0,0,0,0,0,0,0,0,54,507,2,NA,Notre Dame,NA,2
+2023,36,Steve Avila,C,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,NA,2
+2023,37,Derick Hall,DE,0,0,0,0,0,0,0,0,0,0,0,8,Auburn,NA,2
+2023,38,Matthew Bergeron,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Syracuse,NA,2
+2023,39,Jonathan Mingo,WR,0,0,0,0,0,2,5,0,60,585,0,NA,Mississippi,NA,2
+2023,40,Isaiah Foskey,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Notre Dame,NA,2
+2023,41,BJ Ojulari,DE,0,0,0,0,0,0,0,0,0,0,0,4,LSU,NA,2
+2023,42,Luke Musgrave,TE,0,0,0,0,0,0,0,0,45,439,1,NA,Oregon St.,NA,2
+2023,43,Joe Tippmann,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Wisconsin,NA,2
+2023,44,Julius Brents,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Kansas St.,1,2
+2023,45,Brian Branch,DB,0,0,0,0,0,0,0,0,0,0,0,3,Alabama,7,2
+2023,46,Keion White,DL,0,0,0,0,0,0,0,0,0,0,0,6,Georgia Tech,NA,2
+2023,47,Quan Martin,DB,0,0,0,0,0,0,0,0,0,0,0,1,Illinois,3,2
+2023,48,Cody Mauch,T,0,0,0,0,0,0,0,0,0,0,0,NA,North Dakota St.,NA,2
+2023,49,Keeanu Benton,NT,0,0,0,0,0,0,0,0,0,0,0,3.5,Wisconsin,1,2
+2023,50,Jayden Reed,WR,0,0,0,0,0,31,282,3,122,1695,15,NA,Michigan St.,NA,2
+2023,51,Cam Smith,DB,0,0,0,0,0,0,0,0,0,0,0,NA,South Carolina,NA,2
+2023,52,Zach Charbonnet,RB,0,0,0,0,0,291,1163,12,78,566,1,NA,UCLA,NA,2
+2023,53,Gervon Dexter,DL,0,0,0,0,0,0,0,0,0,0,0,8.5,Florida,NA,2
+2023,54,Tuli Tuipulotu,DL,0,0,0,0,0,0,0,0,0,0,0,17,USC,NA,2
+2023,55,Rashee Rice,WR,0,0,0,0,0,2,-2,0,103,1226,9,NA,SMU,NA,2
+2023,56,Tyrique Stevenson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Miami (FL),7,2
+2023,57,John Michael Schmitz,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Minnesota,NA,2
+2023,58,Luke Schoonmaker,TE,0,0,0,0,0,0,0,0,39,322,3,NA,Michigan,NA,2
+2023,59,O'Cyrus Torrence,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,NA,2
+2023,60,DJ Turner,DB,0,0,0,0,0,0,0,0,0,0,0,1,Michigan,1,2
+2023,61,Brenton Strange,TE,0,0,0,0,0,0,0,0,65,650,3,NA,Penn St.,NA,2
+2023,62,Juice Scruggs,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,NA,2
+2023,63,Marvin Mims,WR,0,0,0,0,0,24,97,1,75,999,8,NA,Oklahoma,NA,2
+2023,64,Zacch Pickens,DL,0,0,0,0,0,0,0,0,0,0,0,1.5,South Carolina,NA,3
+2023,65,Tyler Steen,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,3
+2023,66,Sydney Brown,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Illinois,2,3
+2023,67,Drew Sanders,LB,0,0,0,0,0,0,0,0,0,0,0,1,Arkansas,NA,3
+2023,68,Hendon Hooker,QB,6,9,62,0,0,5,2,0,0,0,0,NA,Tennessee,NA,3
+2023,69,Tank Dell,WR,0,0,0,0,0,20,94,0,98,1376,10,NA,Houston,NA,3
+2023,70,Byron Young,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,3
+2023,71,Kendre Miller,RB,0,0,0,0,0,118,469,3,19,169,0,NA,TCU,NA,3
+2023,72,Garrett Williams,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Syracuse,3,3
+2023,73,Jalin Hyatt,WR,0,0,0,0,0,0,0,0,31,435,0,NA,Tennessee,NA,3
+2023,74,Cedric Tillman,WR,0,0,0,0,0,2,3,0,61,669,5,NA,Tennessee,NA,3
+2023,75,Zach Harrison,DE,0,0,0,0,0,0,0,0,0,0,0,6.5,Ohio St.,NA,3
+2023,76,Marte Mapu,DB,0,0,0,0,0,0,0,0,0,0,0,0.5,Sacramento St.,3,3
+2023,77,Byron Young,LB,0,0,0,0,0,0,0,0,0,0,0,21,Tennessee,NA,3
+2023,78,Tucker Kraft,TE,0,0,0,0,0,4,9,0,97,1287,11,NA,South Dakota St.,NA,3
+2023,79,Josh Downs,WR,0,0,0,0,0,1,12,0,160,1749,7,NA,North Carolina,NA,3
+2023,80,DJ Johnson,OLB,0,0,0,0,0,0,0,0,0,0,0,0.5,Oregon,NA,3
+2023,81,Tyjae Spears,RB,0,0,0,0,0,188,779,6,82,609,2,NA,Tulane,NA,3
+2023,82,YaYa Diaby,DL,0,0,0,0,0,0,0,0,0,0,0,13,Louisville,NA,3
+2023,83,Riley Moss,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Iowa,1,3
+2023,84,De'Von Achane,RB,0,0,0,0,0,366,1969,15,130,962,12,NA,Texas A&M,NA,3
+2023,85,Daiyan Henley,LB,0,0,0,0,0,0,0,0,0,0,0,3,Washington St.,2,3
+2023,86,Trenton Simpson,LB,0,0,0,0,0,0,0,0,0,0,0,3.5,Clemson,NA,3
+2023,87,Ji'Ayir Brown,S,0,0,0,0,0,0,0,0,0,0,0,NA,Penn St.,3,3
+2023,88,Tank Bigsby,RB,0,0,0,0,0,223,910,9,8,60,0,NA,Auburn,NA,3
+2023,89,Kobie Turner,DT,0,0,0,0,0,0,0,0,0,0,0,18.5,Wake Forest,NA,3
+2023,90,DeMarvion Overshown,LB,0,0,0,0,0,0,0,0,0,0,0,5,Texas,1,3
+2023,91,Dorian Williams,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Tulane,NA,3
+2023,92,Wanya Morris,OL,0,0,0,0,0,0,0,0,1,1,1,NA,Oklahoma,NA,3
+2023,93,Darnell Washington,TE,0,0,0,0,0,0,0,0,29,281,1,NA,Georgia,NA,3
+2023,94,Michael Wilson,WR,0,0,0,0,0,1,7,0,93,1165,8,NA,Stanford,NA,3
+2023,95,Jordan Battle,DB,0,0,0,0,0,0,0,0,0,0,0,2,Alabama,4,3
+2023,96,Brodric Martin,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Western Kentucky,NA,3
+2023,97,Ricky Stromberg,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Arkansas,NA,3
+2023,98,Siaki Ika,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Baylor,NA,3
+2023,99,Jake Moody,K,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,3
+2023,100,Tre Tucker,WR,0,0,0,0,0,24,150,1,85,1156,9,NA,Cincinnati,NA,3
+2023,101,Cameron Latu,TE,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,3
+2023,102,Mekhi Blackmon,CB,0,0,0,0,0,0,0,0,0,0,0,1,USC,2,3
+2023,103,Nick Saldiveri,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Old Dominion,NA,4
+2023,104,Jakorian Bennett,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Maryland,NA,4
+2023,105,Kelee Ringo,DB,0,0,0,0,0,0,0,0,0,0,0,1,Georgia,1,4
+2023,106,Blake Freeland,OL,0,0,0,0,0,0,0,0,0,0,0,NA,BYU,NA,4
+2023,107,Jake Andrews,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Troy,NA,4
+2023,108,Anthony Bradford,OL,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,4
+2023,109,Dylan Horton,DL,0,0,0,0,0,0,0,0,0,0,0,0.5,TCU,NA,4
+2023,110,Adetomiwa Adebawore,DL,0,0,0,0,0,0,0,0,0,0,0,3,Northwestern,NA,4
+2023,111,Dawand Jones,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,4
+2023,112,Chad Ryland,K,0,0,0,0,0,0,0,0,0,0,0,NA,Maryland,NA,4
+2023,113,Clark Phillips,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Utah,1,4
+2023,114,Chandler Zavala,G,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina St.,NA,4
+2023,115,Roschon Johnson,RB,0,0,0,0,0,136,502,8,50,313,0,NA,Texas,NA,4
+2023,116,Colby Wooden,DE,0,0,0,0,0,0,0,0,0,0,0,0.5,Auburn,NA,4
+2023,117,Sidy Sow,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Eastern Michigan,NA,4
+2023,118,Braeden Daniels,OL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Utah,NA,4
+2023,119,Chamarri Conner,DB,0,0,0,0,0,0,0,0,0,0,0,1,Virginia Tech,3,4
+2023,120,Carter Warren,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Pittsburgh,NA,4
+2023,121,Ventrell Miller,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,NA,4
+2023,122,Jon Gaines,OL,0,0,0,0,0,0,0,0,0,0,0,NA,UCLA,NA,4
+2023,123,Cameron Young,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi St.,NA,4
+2023,124,Tavius Robinson,DE,0,0,0,0,0,0,0,0,0,0,0,6.5,Mississippi,NA,4
+2023,125,Derius Davis,WR,0,0,0,0,0,28,145,0,28,178,2,NA,TCU,NA,4
+2023,126,Isaiah McGuire,DL,0,0,0,0,0,0,0,0,0,0,0,4.5,Missouri,NA,4
+2023,127,Jake Haener,QB,18,39,226,1,1,11,22,0,0,0,0,NA,Fresno St.,NA,4
+2023,128,Stetson Bennett,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Georgia,NA,4
+2023,129,Viliami Fehoko,DL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,San Jose St.,NA,4
+2023,130,Tyler Lacy,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma St.,NA,4
+2023,131,Charlie Jones,WR,0,0,0,0,0,2,13,0,8,69,0,NA,Purdue,NA,4
+2023,132,Nick Herbig,OLB,0,0,0,0,0,0,0,0,0,0,0,11,Wisconsin,1,4
+2023,133,Tyler Scott,WR,0,0,0,0,0,7,41,0,18,173,0,NA,Cincinnati,NA,4
+2023,134,Jay Ward,S,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,4
+2023,135,Aidan O'Connell,QB,367,586,3830,20,11,38,41,2,0,0,0,NA,Purdue,NA,4
+2023,136,Yasir Abdullah,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Louisville,NA,5
+2023,137,K.J. Henry,DE,0,0,0,0,0,0,0,0,0,0,0,2.5,Clemson,NA,5
+2023,138,Darius Rush,DB,0,0,0,0,0,0,0,0,0,0,0,NA,South Carolina,NA,5
+2023,139,Clayton Tune,QB,14,23,70,0,2,15,26,1,0,0,0,NA,Houston,NA,5
+2023,140,Dorian Thompson-Robinson,QB,121,230,880,1,10,35,187,0,0,0,0,NA,UCLA,NA,5
+2023,141,Jaquelin Roy,DT,0,0,0,0,0,0,0,0,0,0,0,2,LSU,NA,5
+2023,142,Cameron Mitchell,DB,0,0,0,0,0,0,0,0,0,0,0,1,Northwestern,NA,5
+2023,143,Israel Abanikanda,RB,0,0,0,0,0,22,70,0,7,43,0,NA,Pittsburgh,NA,5
+2023,144,Atonio Mafi,OL,0,0,0,0,0,0,0,0,0,0,0,NA,UCLA,NA,5
+2023,145,Jammie Robinson,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Florida St.,NA,5
+2023,146,Jordan Howden,DB,0,0,0,0,0,0,0,0,0,0,0,1,Minnesota,2,5
+2023,147,Josh Whyle,TE,0,0,0,0,0,0,0,0,37,342,2,NA,Cincinnati,NA,5
+2023,148,Noah Sewell,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,5
+2023,149,Sean Clifford,QB,1,1,37,0,0,3,-2,0,0,0,0,NA,Penn St.,NA,5
+2023,150,Justin Shorter,WR,0,0,0,0,0,0,0,0,0,0,0,NA,Florida,NA,5
+2023,151,Mike Morris,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,5
+2023,152,Colby Sorsdal,OL,0,0,0,0,0,0,0,0,0,0,0,NA,William & Mary,NA,5
+2023,153,SirVocea Dennis,LB,0,0,0,0,0,0,0,0,0,0,0,1,Pittsburgh,NA,5
+2023,154,Olusegun Oluwatimi,C,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,5
+2023,155,Darrell Luter,CB,0,0,0,0,0,0,0,0,0,0,0,NA,South Alabama,NA,5
+2023,156,Jordan McFadden,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Clemson,NA,5
+2023,157,Kyu Blu Kelly,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Stanford,NA,5
+2023,158,Daniel Scott,S,0,0,0,0,0,0,0,0,0,0,0,NA,California,NA,5
+2023,159,Dontayvion Wicks,WR,1,1,14,0,0,1,1,0,88,1110,9,NA,Virginia,NA,5
+2023,160,Antonio Johnson,DB,0,0,0,0,0,0,0,0,0,0,0,1,Texas A&M,3,5
+2023,161,Nick Hampton,OLB,0,0,0,0,0,0,0,0,0,0,0,NA,Appalachian St.,NA,5
+2023,162,Will Mallory,TE,0,0,0,0,0,0,0,0,22,236,0,NA,Miami (FL),NA,5
+2023,163,Chase Brown,RB,0,0,0,0,0,338,1329,8,86,611,5,NA,Illinois,NA,5
+2023,164,Jaren Hall,QB,13,20,168,0,1,6,14,0,0,0,0,NA,BYU,NA,5
+2023,165,Terell Smith,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Minnesota,1,5
+2023,166,BJ Thompson,DE,0,0,0,0,0,0,0,0,0,0,0,NA,S.F. Austin,NA,5
+2023,167,Henry To'oTo'o,LB,0,0,0,0,0,0,0,0,0,0,0,2.5,Alabama,1,5
+2023,168,Owen Pappoe,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,NA,5
+2023,169,Asim Richards,OL,0,0,0,0,0,0,0,0,0,0,0,NA,North Carolina,NA,5
+2023,170,Christopher Smith,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,5
+2023,171,Payne Durham,TE,0,0,0,0,0,0,0,0,16,173,2,NA,Purdue,NA,5
+2023,172,Eric Gray,RB,0,0,0,0,0,31,79,0,16,104,0,NA,Oklahoma,NA,5
+2023,173,Robert Beal,OLB,0,0,0,0,0,0,0,0,0,0,0,1,Georgia,NA,5
+2023,174,Warren McClendon,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Georgia,NA,5
+2023,175,Davis Allen,TE,0,0,0,0,0,0,0,0,22,182,3,NA,Clemson,NA,5
+2023,176,Evan Hull,RB,0,0,0,0,0,1,1,0,1,6,0,NA,Northwestern,NA,5
+2023,177,Puka Nacua,WR,0,0,0,0,0,26,187,2,236,3064,11,NA,BYU,NA,5
+2023,178,Eric Scott,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Southern Miss,NA,6
+2023,179,Karl Brooks,DT,0,0,0,0,0,0,0,0,0,0,0,8,Bowling Green,NA,6
+2023,180,Kei'Trel Clark,DB,0,0,0,0,0,0,0,0,0,0,0,1,Louisville,1,6
+2023,181,Josh Hayes,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Kansas St.,NA,6
+2023,182,Tre'Vius Tomlinson,CB,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,NA,6
+2023,183,JL Skinner,S,0,0,0,0,0,0,0,0,0,0,0,NA,Boise St.,NA,6
+2023,184,Zaire Barnes,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Western Michigan,NA,6
+2023,185,Parker Washington,WR,0,0,0,0,0,1,-1,0,59,648,6,NA,Penn St.,NA,6
+2023,186,Jaelyn Duncan,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Maryland,NA,6
+2023,187,Kayshon Boutte,WR,0,0,0,0,0,0,0,0,58,816,4,NA,LSU,NA,6
+2023,188,Tanner McKee,QB,30,45,323,4,0,5,-1,0,0,0,0,NA,Stanford,NA,6
+2023,189,Ochaun Mathis,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Nebraska,NA,6
+2023,190,Luke Wypler,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Ohio St.,NA,6
+2023,191,Trey Palmer,WR,0,0,0,0,0,3,22,0,51,557,4,NA,Nebraska,NA,6
+2023,192,Bryce Baringer,P,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan St.,NA,6
+2023,193,Chris Rodriguez,RB,0,0,0,0,0,109,525,4,3,24,0,NA,Kentucky,NA,6
+2023,194,Keondre Coburn,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Texas,NA,6
+2023,195,A.T. Perry,WR,0,0,0,0,0,0,0,0,12,246,4,NA,Wake Forest,NA,6
+2023,196,Jose Ramirez,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Eastern Michigan,NA,6
+2023,197,Elijah Higgins,WR,0,0,0,0,0,0,0,0,40,400,3,NA,Stanford,NA,6
+2023,198,Jerrick Reed,S,0,0,0,0,0,0,0,0,0,0,0,NA,New Mexico,NA,6
+2023,199,Malaesala Aumavae-Laulu,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,6
+2023,200,Scott Matlock,DT,0,0,0,0,0,0,0,0,5,29,0,1,Boise St.,NA,6
+2023,201,Jarrett Patterson,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Notre Dame,NA,6
+2023,202,Christian Braswell,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Rutgers,NA,6
+2023,203,Amari Burney,LB,0,0,0,0,0,0,0,0,0,0,0,1,Florida,NA,6
+2023,204,Jarrick Bernard-Converse,CB,0,0,0,0,0,0,0,0,0,0,0,NA,LSU,NA,6
+2023,205,Xavier Hutchinson,WR,0,0,0,0,0,6,54,0,32,317,2,NA,Iowa St.,NA,6
+2023,206,Andrei Iosivas,WR,0,0,0,0,0,1,5,0,58,711,10,NA,Princeton,NA,6
+2023,207,Anders Carlson,K,0,0,0,0,0,0,0,0,0,0,0,NA,Auburn,NA,6
+2023,208,Erick Hallett,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Pittsburgh,NA,6
+2023,209,Tre Hawkins,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Old Dominion,1,6
+2023,210,Demario Douglas,WR,0,0,0,0,0,12,61,0,122,1212,4,NA,Liberty,NA,6
+2023,211,Titus Leo,LB,0,0,0,0,0,0,0,0,0,0,0,NA,Wagner,NA,6
+2023,212,Deuce Vaughn,RB,0,0,0,0,0,40,110,0,10,58,0,NA,Kansas St.,NA,6
+2023,213,Dante Stills,DT,0,0,0,0,0,0,0,0,0,0,0,8,West Virginia,NA,6
+2023,214,Ameer Speed,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan St.,NA,6
+2023,215,Zach Evans,RB,0,0,0,0,0,9,19,0,0,0,0,NA,Mississippi,NA,6
+2023,216,Dee Winters,LB,0,0,0,0,0,0,0,0,0,0,0,NA,TCU,NA,6
+2023,217,Brad Robbins,P,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,6
+2023,218,Travis Bell,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Kennesaw St.,NA,7
+2023,219,Antoine Green,WR,0,0,0,0,0,0,0,0,1,2,0,NA,North Carolina,NA,7
+2023,220,Zack Kuntz,TE,0,0,0,0,0,0,0,0,0,0,0,NA,Old Dominion,NA,7
+2023,221,Jaylon Jones,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Texas A&M,2,7
+2023,222,DeWayne McBride,RB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ala-Birmingham,NA,7
+2023,223,Ethan Evans,P,0,0,0,0,0,0,0,0,0,0,0,NA,Wingate,NA,7
+2023,224,DeMarcco Hellams,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Alabama,NA,7
+2023,225,Jovaughn Gwyn,OL,0,0,0,0,0,0,0,0,0,0,0,NA,South Carolina,NA,7
+2023,226,Cooper Hodges,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Appalachian St.,NA,7
+2023,227,Raymond Vohasek,DT,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,North Carolina,NA,7
+2023,228,Colton Dowell,WR,0,0,0,0,0,0,0,0,1,3,0,NA,UT Martin,NA,7
+2023,229,Andrew Vorhees,OL,0,0,0,0,0,0,0,0,0,0,0,NA,USC,NA,7
+2023,230,Nick Broeker,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Mississippi,NA,7
+2023,231,Nesta Jade Silvera,DT,0,0,0,0,0,0,0,0,0,0,0,NA,Arizona St.,NA,7
+2023,232,Carrington Valentine,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Kentucky,2,7
+2023,233,Andre Jones,DE,0,0,0,0,0,0,0,0,0,0,0,NA,Louisiana,NA,7
+2023,234,Jason Taylor,S,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma St.,NA,7
+2023,235,Lew Nichols,RB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Central Michigan,NA,7
+2023,236,Jake Witt,OL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Northern Michigan,NA,7
+2023,237,Kenny McIntosh,RB,0,0,0,0,0,31,172,0,3,22,0,NA,Georgia,NA,7
+2023,238,Ryan Hayes,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Michigan,NA,7
+2023,239,Max Duggan,QB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TCU,NA,7
+2023,240,Derek Parish,DL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Houston,NA,7
+2023,241,Cory Trice,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Purdue,1,7
+2023,242,Anthony Johnson,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Iowa St.,1,7
+2023,243,Jordon Riley,DL,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,7
+2023,244,Jalen Brooks,WR,0,0,0,0,0,0,0,0,18,241,1,NA,South Carolina,NA,7
+2023,245,Isaiah Bolden,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Jackson St.,NA,7
+2023,246,DJ Ivey,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Miami (FL),NA,7
+2023,247,Brayden Willis,TE,0,0,0,0,0,0,0,0,0,0,0,NA,Oklahoma,NA,7
+2023,248,Brandon Hill,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Pittsburgh,NA,7
+2023,249,Moro Ojomo,DE,0,0,0,0,0,0,0,0,0,0,0,2,Texas,NA,7
+2023,250,Nic Jones,CB,0,0,0,0,0,0,0,0,0,0,0,NA,Ball St.,NA,7
+2023,251,Spencer Anderson,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Maryland,NA,7
+2023,252,Alex Austin,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon St.,1,7
+2023,253,Ronnie Bell,WR,0,0,0,0,0,0,0,0,8,90,3,NA,Michigan,NA,7
+2023,254,Gervarrius Owens,DB,0,0,0,0,0,0,0,0,0,0,0,NA,Houston,NA,7
+2023,255,Jalen Graham,S,0,0,0,0,0,0,0,0,0,0,0,NA,Purdue,NA,7
+2023,256,Grant Dubose,WR,0,0,0,0,0,0,0,0,2,11,0,NA,Charlotte,NA,7
+2023,257,Alex Forsyth,OL,0,0,0,0,0,0,0,0,0,0,0,NA,Oregon,NA,7
+2023,258,Kendall Williamson,S,0,0,0,0,0,0,0,0,0,0,0,NA,Stanford,NA,7
+2023,259,Desjuan Johnson,DT,0,0,0,0,0,0,0,0,0,0,0,3,Toledo,NA,7

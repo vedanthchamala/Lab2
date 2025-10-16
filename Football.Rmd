@@ -1,0 +1,512 @@
+---
+title: "NFL Football: Project 1"
+author: "Vedanth Chamala"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+# Introduction
+
+<br>
+
+
+### The NFL is the greatest display of American football talent in the world. The NFL Draft is where the 32 NFL teams, arranged in a calculated order, pick their desired players. However, the dynamics of NFL drafts and their results are very interesting. Top draft picks don't always perform to the standard they are held to, and lower-positioned draft picks exceed expectations. Fantasy Football, a highly popular game for fans to simulate their own drafts, is also a great indicator of overall impact and perfomance. I plan to explore the answer to the following research questions: What is the relationship between NFL draft pick number and fantasy football/actual NFL performance? Do certain college have better systems to develop their players into NFL-ready athletes? How do fantasy outputs vary across player positions? Understanding these relationships can improve player drafting strategies both in the NFL and in fantasy football. The source of NFL data: https://www.pro-football-reference.com/years/2018/draft.htm. Source for fantasy football data: https://www.fantasypros.com/nfl/reports/leaders/ppr.php?year=2018.
+
+
+<br>
+
+```{r}
+##Upload image by saving the "NFLimage" in the github files, downlaod to your files, copy the path to the photo, then paste this: ![](Path here)
+```
+
+
+
+![](/Users/vedanthchamala/Desktop/SDS/NFL_image.jpg)
+
+#### https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pff.com%2Fnews%2Fnfl-running-back-rankings-top-32-2024-nfl-season&psig=AOvVaw0-Kp6SWw1R-JK-kFjhQGgO&ust=1760168741675000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCIjwxteRmZADFQAAAAAdAAAAABAE
+
+
+```{r, include =FALSE}
+
+#Library upload:
+
+
+#Upload necessary libraries for the project including tidyverse, dplyr, stringr, and ggplot2, using "library()" function
+
+
+library(tidyverse)
+library(dplyr)
+library(stringr)
+library(ggplot2)
+
+
+```
+<br><br>
+
+# Data Preparation
+
+
+### To prepare the data for analysis, I combined the individual drafts from 2018 to 2023 into 1 .csv file, and did the same with the fantasy performances. Then I checked the first portion of rows for each and their structures to understand what variables are useful/relevant to me, and which are not. For my NFL draft data set, I faced a challenge seeing that there was one miscellaneous row in the beginning, so I skipped one row when reading my data as one whole .csv, using the function "skip = 1." This function skips the first row, skipping past extra data preceding what I need for my analysis. I also struggled to figure out which tidyverse function stacks datasets, as all the functions that I attempted would connect datasets by variables horizontally, rather than by connecting by columns. I researched functions that helped figure this out.
+
+```{r, include =FALSE}
+#Merging seasons data sets:
+
+
+#Assign each draft (draft_2018 -> draft_2023) to a "read.csv("draft_2018.csv")
+#All the csv files will be uploaded to github
+#code to create draft data tables: draft_2018 <- read.csv("draft_2018.csv", skip = 1) 
+#change the year, that's it
+
+
+draft_2018 <- read.csv("draft_2018.csv", skip = 1)
+draft_2019 <- read.csv("draft_2019.csv", skip = 1)
+draft_2020 <- read.csv("draft_2020.csv", skip = 1)
+draft_2021 <- read.csv("draft_2021.csv", skip = 1)
+draft_2022 <- read.csv("draft_2022.csv", skip = 1)
+draft_2023 <- read.csv("draft_2023.csv", skip = 1)
+
+
+#Create a new variable by: draft_2018$year_drafted <- 2018
+#just change the year
+
+draft_2018$year_drafted <- 2018
+draft_2019$year_drafted <- 2019
+draft_2020$year_drafted <- 2020
+draft_2021$year_drafted <- 2021
+draft_2022$year_drafted <- 2022
+draft_2023$year_drafted <- 2023
+
+
+#to combine them, assign a variable for the entire thing, then use a base r function called "rbind"
+#drafts <- rbind(draft_2018, draft_2019, draft_2020, draft_2021, draft_2022, draft_2023)
+
+
+
+drafts <- rbind(draft_2018, draft_2019, draft_2020, draft_2021, draft_2022, draft_2023)
+
+write_csv(drafts, "drafts_2018_2023.csv")
+
+```
+
+
+```{r, include =FALSE}
+#Merging Fantasy football data sets:
+
+##fantasy football files start with ff_
+# upload all through : ff_files <- c("ff_2018.csv", "ff_2019.csv", "ff_2020.csv", "ff_2021.csv", "ff_2022.csv", "ff_2023.csv")
+# assign each year through: ff_2018 <- read_csv("ff_2018.csv") 
+#just chnage the year that's it, copy paste same line over and over similar to the draft files
+
+
+
+ff_files <- c("ff_2018.csv", "ff_2019.csv", "ff_2020.csv", "ff_2021.csv", "ff_2022.csv", "ff_2023.csv")
+
+ff_2018 <- read_csv("ff_2018.csv")
+ff_2019 <- read_csv("ff_2019.csv")
+ff_2020 <- read_csv("ff_2020.csv")
+ff_2021 <- read_csv("ff_2021.csv")
+ff_2022 <- read_csv("ff_2022.csv")
+ff_2023 <- read_csv("ff_2023.csv")
+
+#variable for each ff draft year: 
+#ff_2018$year <- 2018
+#just change the year
+
+ff_2018$year <- 2018
+ff_2019$year <- 2019
+ff_2020$year <- 2020
+ff_2021$year <- 2021
+ff_2022$year <- 2022
+ff_2023$year <- 2023
+
+#use tidyverse function bind_rows : ff_perf <- bind_rows(ff_2018, ff_2019, ff_2020, ff_2021, ff_2022, ff_2023)
+
+
+ff_perf <- bind_rows(ff_2018, ff_2019, ff_2020, ff_2021, ff_2022, ff_2023)
+
+#write.csv to create complete csv for fantasy football
+
+write.csv(ff_perf, "ff_perf_2018_2023.csv")
+
+```
+
+```{r, include =FALSE}
+#assign the data sets to these names
+#
+
+drafts <- read_csv("drafts_2018_2023.csv")
+fantasy <- read_csv("ff_perf_2018_2023.csv")
+
+```
+
+<br><br>
+
+# Variable Descriptions
+
+### Now that the data sets are merged and contain the entirety of the drafts, they are prepared for me to elimiate certain variables that are not relevant to me. I subsetted the original combined drafts dataset, selecting the variables of interest, which included draft round, year drafted, pick number, position, completion percentage, pass attempts, pass yards, pass touchdowns, pass interceptions, rush attempts, rush yards, rush touchdowns, receptions, reception yards, reception touchdowns, sacks, and college. These were the variables I chose to keep in the subet. For the fantasy football dataset, I subsetted the merged dataset, keepng the following variables: Rank, Player, Position, Team, Averages, Total, and Year (of performance). For more information on how the fantasy football system works, check out this link!: https://www.draftsharks.com/kb/fantasy-points-scoring-systems.
+
+```{r, include =FALSE}
+
+##create draft_clean, only using variables that are relevant to my study:
+
+#Renamed all the columns, previous renames were deleted as I was unable to run them multiple times
+
+
+drafts <- rename(drafts, draft_round = Rnd, games_played = G, completions = Cmp, passAtt = Att, passYds = Yds, passTDs = TD, passInt = Int, rushAtt = Att.1, rushYds = Yds.1, rushTDs = TD.1, receptions = Rec, recYds = Yds.2, recTDs = TD.2, sacks = Sk, recInts = Int.1, college = College.Univ)
+
+drafts_clean <- select(drafts, year_drafted, Pick, Player, Pos, completions, passAtt, passYds, passTDs, passInt, rushAtt, rushYds, rushTDs, receptions, recYds, recTDs, sacks, college, recInts, draft_round)
+
+drafts_final <- write_csv(drafts_clean, "drafts_final.csv")
+
+
+ff_perf <- rename(ff_perf, Rank = `#`)
+
+
+fantasy_clean <- select(ff_perf, Rank, Player, Pos, Team, AVG, TTL, year)
+
+
+```
+
+<br><br>
+
+# NFL Data Table
+
+<br>
+
+```{r, echo=FALSE}
+
+
+#table for my NFL data variables of interest
+var_table <- tibble(Variable = c("year_drafted", "Pick", "Player", "Pos", "rushYds", "rushTDs", "receptions", "recYds", "recTDs", "college", "draft_round"), Type = c("numeric", "numeric", "character", "character", "numeric", "numeric", "numeric", "numeric", "numeric", "character", "numeric"), Description = c( "Year the player was drafted (2018-2023)", "Overall draft pick number (1-256)", "Player's full name", "Player's position (QB, RB, WR, TE, etc.)", "Total rushing yards", "Total rushing touchdowns", "Total receptions", "Total receiving yards", "Total receiving touchdowns", "College/University attended", "Draft round (1-7)"))
+
+knitr::kable(var_table)
+
+```
+
+<br><br>
+
+# Fantasy Football Table
+
+<br>
+
+```{r, echo=FALSE}
+
+
+#table for my NFL data variables of interest
+fan_table <- tibble(Variable = c("Rank", "Player", "Pos", "Team", "AVG", "TTL", "year"), Type = c("numeric", "character", "character", "character", "numeric", "numeric", "numeric"), Description = c( "Player's fantasy ranking", "Player's full name", "Player's position (QB, RB, WR, TE)", "NFL team abbreviation", "Average fantasy points per game", "Total fantasy points for the season", "Year of fantasy performance (2018-2023)"))
+
+knitr::kable(fan_table)
+
+```
+
+<br><br>
+
+# Univariate Analyses:
+
+<br>
+
+### First, we'll look at the distribution of Draft Pick Numbers:
+
+```{r, echo=FALSE, warning = FALSE, message = FALSE}
+
+#ggplot
+
+ggplot(drafts_final, aes(x = Pick)) + geom_histogram(binwidth = 5, color = "black", fill = "skyblue") + labs(title = "Distribution of Draft Pick Numbers", x = "Pick Number", y = "Number of Players") + scale_x_continuous(limits = c(1, 260), breaks = c(1, 50, 100, 150, 200, 256))
+  
+
+
+```
+
+#### We can see the histogram has a uniform distribution, meaning there are an even amount of players drafted at each pick from the years 2018 to 2023, besides the 256th pick, which is the last of the draft. 
+
+
+<br><br><br>
+
+
+### Next, let's examine the distribution of player positions in a draft:
+
+```{r, echo=FALSE}
+
+ggplot(drafts_final, aes(x = Pos)) + geom_bar(fill = "lightblue", color = "black") + labs(title = "Distribution of Player Positions", x = "Position", y = "Number of Players") 
+
+```
+```{r, include=FALSE}
+
+pos_counts <- count(drafts_final, Pos)
+
+summarize(pos_counts, most = max(n))
+summarize(pos_counts, most = min(n))
+
+most <- slice_max(pos_counts, n =1, order_by = n)
+least <- slice_min(pos_counts, n = 1, order_by = n)
+
+print(most)
+
+print(least)
+```
+
+#### In NFL drafts, it appears that wide receivers are the most commonly drafted position, with `r most$n` wide receivers being drafted from 2018 to 2023, and fullbacks, nose tackles, and offensive tackles were the least drafted, with only `r least$n` of each. 
+
+<br><br><br>
+
+### Understanding the value of running backs is extremely important for NFL teams that seek success. Let's graph the distribution of rush yards (amongst players with more than 500 rush yards, indicating they're actually active on the team) to help understand the performance of running backs from 2018 to 2023:
+
+```{r, echo=FALSE, warning = FALSE, message = FALSE}
+
+ggplot(filter(drafts_final, rushYds > 500), aes(x = rushYds)) + geom_histogram(bins = 30, fill = "red", color = "black") + labs(title = "Distribution of Rushing Yards (Players with Rush Yards > 500)", x = "Rush Yards", y = "Number of Players") + scale_x_continuous(limits = c(0, 6000), breaks = c(0, 1000, 2000, 3000, 4000, 5000, 6000)) + scale_y_continuous(breaks = c(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14))
+
+```
+```{r, include = FALSE}
+
+median <- median(filter(drafts_final, rushYds > 500)$rushYds, na.rm = TRUE)
+
+median
+
+mean <- round(mean(filter(drafts_final, rushYds > 500)$rushYds, na.rm = TRUE), 2)
+
+mean
+```
+#### The distribution of rush yards appears to be skewed right, showing only a few running backs have over 4000 rushing yards. This distribution has a mean of `r mean` yards, and a median of `r median` yards.
+
+<br><br><br>
+
+
+### Wide receivers have the potential to impact NFL teams the most, so understanding the distribution of receptions amongst players drafted from 2018 to 2023 is crucial in understanding the impact they have.
+
+
+```{r, echo=FALSE, warning = FALSE, message = FALSE}
+
+ggplot(filter(drafts_final, receptions > 4), aes(x = receptions)) + geom_histogram(bins = 25, fill = "navy", color = "black") + labs(title = "Distribution of Receptions (Players with >4 Receptions)", x = "Receptions", y = "Number of Players") + scale_x_continuous(limits = c(0, 200))
+
+```
+```{r, include = FALSE}
+
+reception_data <- filter(drafts_final, receptions > 4)
+median <- median(reception_data$receptions)
+
+iqr <- IQR(reception_data$receptions)
+
+summary(reception_data$receptions)
+
+
+
+```
+
+
+#### This distribution is clearly skewed right, meaning that nearly 40 receivers have less than and around 10 receptions, and 5 receivers or less have more than 150 receptions. Since this distribution is skewed, it's helpful to see that the median number of receptions is `r median` receptions, and the IQR is `r iqr`, showing significant variability in reception counts of players with more than 4 receptions.
+
+<br><br><br>
+
+# Bivariate Analyses:
+
+<br><br>
+
+
+
+
+### NFL drafts are crucial to the success of NFL teams, allowing them the opportunity to add new talent and invest in their future. This is why understanding where the best value in perfomance lies in the draft is very important. Exploring the relationship between rushing yards and the round the player was picked is a great indicator of overall performance and impact. For more information on how the NFL draft works, check out NFL's official draft rules website: https://operations.nfl.com/journey-to-the-nfl/the-nfl-draft/the-rules-of-the-draft/. 
+
+```{r, echo=FALSE}
+
+ggplot(filter(drafts_final, rushYds > 0), aes(x = Pick, y = rushYds)) + geom_point(color = "darkblue") + geom_smooth(method = "lm", color = "red") + labs(title = "Draft Pick vs Rush Yards", x = "Pick Number", y = "Rush Yards") + scale_y_continuous(breaks = c(0, 1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000))
+
+```
+
+
+
+```{r, include = FALSE}
+
+rush_data <- filter(drafts_final, rushYds > 0)
+
+cor_pick_rush <- cor(rush_data$Pick, rush_data$rushYds, use = "complete.obs")
+
+cor_pick_rush
+
+median <- median(rush_data$rushYds)
+
+median
+
+sd_rush <- round(sd(rush_data$rushYds), 2)
+
+sd_rush
+
+
+
+```
+
+#### When comparing draft picks and their rushing yards, we can see that players picked in the early rounds generally have better rushing output than player picked in later rounds. The correlation between draft pick and rushing yards (players with more than 0) is `r round(cor_pick_rush, 2)`, indicating a weak, negative relationship between the two variables.  The median rushing yards for players with more than 0 yards from 2018 to 2023 is `r median` yards, indicating that half of all players during this period gained fewer than 97 rushing yards. The standard deviation of `r sd_rush` yards shows that there is a wide spread in rushing performance, evident by some of the late-round picks achieving high totals despite the trend.
+
+<br><br><br>
+
+### Comparing draft pick vs fantasy performance can help us understand if there is a certain pick that often performs exceptionally well, giving drafters an advantage:
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+
+joined_data <- inner_join(drafts_final, fantasy_clean, by = "Player")
+
+ggplot(joined_data, aes(x = Pick, y = AVG)) + geom_point(color = "black", alpha = 0.6) + geom_smooth(method = "lm", color = "red") + labs(title = "Draft Pick vs Fantasy Points (2018-2023)", x = "Draft Pick #", y = "Average Fantasy Points per Game")
+
+
+```
+```{r, include = FALSE}
+
+cor_pick_fantasy <- cor(joined_data$Pick, joined_data$AVG, use = "complete.obs")
+
+round(cor_pick_fantasy, 2)
+median_f <- median(joined_data$AVG, na.rm = TRUE)
+
+median_f
+sd_f <- sd(joined_data$AVG, na.rm = TRUE)
+
+round(sd_f, 2)
+
+late_round <- filter(joined_data, Pick > 150)
+
+late_round <- arrange(late_round, desc(AVG))
+
+top_late <- select(late_round, Player, Pick, AVG)
+
+head(top_late, 5)
+
+
+```
+
+#### There appears to be a moderate, negative correlation of <span style="color:darkred; font-weight:bold;">`r round(cor_pick_fantasy, 2)`</span>, indicating that players at a lower draft picks perform better. The median fantasy points during this period is `r median_f` points, meaning that half of players selected have scored less than `r median_f` fantasy points. This shows that players have a generally low fantasy output, with a minority few who consistently perform exceptionally. The standard deviation of `r round(sd_f, 2)` indicates the wide spread in fantasy averages. Some players produce very little points, and others average high amount of points. This variability is a great indicator of the unpredictable nature of fantasy performances. Early picks are more likely to see success and are often the safer choice, but many late round picks make their presence known throughout the seasons as well.
+
+<br><br><br>
+
+### Understanding which player positions, on average, produce the best fantasy results is crucial for fantasy managers seeking to maximize the success of their team: 
+
+```{r, echo=FALSE}
+
+fantasy_clean_fixed <- filter(fantasy_clean, !is.na(Pos), !is.na(AVG))
+
+ggplot(fantasy_clean_fixed, aes(x = Pos, y = AVG, fill = Pos)) + geom_boxplot() + labs(title = "Player Position vs Average Fantasy Points (2018-2023)", x = "Player Position", y = "Average Fantasy Points") + theme(legend.position = "none")
+
+
+```
+```{r, include = FALSE}
+
+qb <- filter(fantasy_clean_fixed, Pos == "QB")
+te <- filter(fantasy_clean_fixed, Pos == "TE")
+rb <- filter(fantasy_clean_fixed, Pos == "RB")
+wr <- filter(fantasy_clean_fixed, Pos == "WR")
+
+med_qb <- median(qb$AVG)
+med_te <- median(te$AVG)
+med_rb <- median(rb$AVG)
+med_wr <- median(wr$AVG)
+
+iqr_qb <- IQR(qb$AVG)
+iqr_te <- IQR(te$AVG)
+iqr_rb <- IQR(rb$AVG)
+iqr_wr <- IQR(wr$AVG)
+
+mean_qb <- mean(qb$AVG)
+mean_te <- mean(te$AVG)
+mean_rb <- mean(rb$AVG)
+mean_wr <- mean(wr$AVG)
+
+n_qb <- nrow(qb)
+n_te <- nrow(te)
+n_rb <- nrow(rb)
+n_wr <- nrow(wr)
+```
+
+#### As seen from these boxplots, when looking at the key positions, quarterbacks have the highest median average fantasy points production at `r round(med_qb, 2)` points, followed by wide receivers who have a median of `r round(med_wr, 2)` points. Running backs have a median of `r round(med_rb, 2)` points, and tight ends with a median of `r round(med_te, 2)` points. This comes to show that wide receivers and quarterbacks might be the best targets early in fantasy drafts, displayed by their high median performances. However, quarterbacks also show the highest variability in their performances, with an IQR of `r round(iqr_qb, 2)` points across `r n_qb` quarterbacks. This shows that quarterbacks vary pretty significantly in their performances, therefore making running backs, tight ends, and wide receivers potentially safer targets. Running backs and wide receivers have many high outliers, indicating their high scoring potential. 
+
+<br><br><br>
+
+### The college NFL players come from may be a great indicator of their level of readiness for the big-league. Certain colleges have programs heavily-funded to prepare athletes for the next level. Drawing a relationship between colleges and rushing performance may help general managers make the decision to draft certain players.
+
+```{r, fig.width= 10, fig.height=8, echo=FALSE}
+
+#Filter to see only players with rushing yards
+rushing_players <- filter(drafts_final, rushYds > 0)
+
+#group rushing players by college
+college_grouped <- group_by(rushing_players, college)
+
+
+college_rush <- summarise(college_grouped, mean_rush = mean(rushYds, na.rm = TRUE))
+college_counts <- summarise(college_grouped, player_count = n())
+
+#add counts to the college rush that already has means
+college_rush$player_count <- college_counts$player_count
+
+#colleges with at least 3 players
+college_rush <- filter(college_rush, player_count >= 3)
+
+college_rush <- arrange(college_rush, desc(mean_rush))
+
+
+ggplot(college_rush, aes(x = college, y = mean_rush)) + geom_col(fill = "coral") + coord_flip() + labs(title = "Average NFL Rushing Yards by College (2018-2023)", x = "College", y = "Average Rushing Yards")
+```
+
+
+
+```{r, include = FALSE}
+
+top_college <- college_rush$college[1]
+top_college_rush <- college_rush$mean_rush[1]
+
+bottom_college <- college_rush$college[nrow(college_rush)]
+bottom_rush <- college_rush$mean_rush[nrow(college_rush)]
+
+mean_all <- mean(college_rush$mean_rush)
+
+median_all <- median(college_rush$mean_rush)
+
+range <- top_college_rush - bottom_rush
+
+better_than <- top_college_rush - mean_all
+```
+
+#### As seen by the bar chart, from 2018 to 2023, the college that produced the players with the leading average number of rushing yards is `r top_college`, with an average of `r round(top_college_rush, 2)` yards per player, which is `r round(better_than, 2)` better than the mean of all colleges in this dataset- `r round(mean_all, 2)`. The college with the least productive running backs in the NFL is `r bottom_college`, with an average rushing yards of `r round(bottom_rush, 2)` yards per player. The variability of rushing yards is quite large, with the range of this distribution being `r round(range, 2)` yards, giving an insight into the disparity between running back development between colleges.
+
+<br><br><br>
+
+# Choice Elements:
+
+### The 5 elements I decided to incorporate into my project were A, B, C, D, and E. For element 'A', I used in-line code for every graph as my method of implementing descriptive statistics into my interpretation of each of the graph distributions and relationships. For element 'B', I included two hyperlinks. One is located in the variable description section, helping the reader further understand how fantasy football works, and the second hyperlink is located in the first bivariate analysis (where I explain the importance of the NFL draft), to help the reader further understand how the draft works and why it's a very important matter in football. For element 'C', in the bivariate analysis of draft picks and their fantasy performance, I changed the color of the correlation in my interpretation, making it dark red rather than black. For element 'D', I included a floating table of contents by setting "toc: " and "toc_float: " both equal to true in the RMD header at the very top. For element 'E', I had to merge the datasets for every year from 2018 to 2023 for both fantasy football and the NFL draft. This is completed in the "Data Preparation" section in the beginning, where I used functions including "rbind" and "bind_rows": a base R function and dplyr function, respectively. I researched ways to stack these datasets, and landed upon this webiste: https://bookdown.org/rwnahhas/IntroToR/append-stack.html. 
+
+<br><br><br>
+
+# Conclusion: 
+
+### In conclusion, this entire analysis revealed that players who are drafted earlier in the NFL draft often perform better in the NFL league and fantasy football compared to players who were drafted in later rounds of the draft. When observing draft picks versus performance, both in fantasy production and actual NFl rushing statistics, it was found that there were negative correlation between the two variables. Therefore, as pick number increases, there is a decrease in performance. However, I also observed many outliers in the late parts of the draft, with a few exceeding expectations and performing at a high level, showing that talent has the potential to emerge at any position, but has a higher tendency to in early parts of the draft. Across player positions, I found that quarterbacks and wide receivers have the highest median fantasy points, indicating their value/impact in fantasy leagues. Running backs had many outliers, demonstrating the position's potential for high-performance games. Tightends showed consistency, having little variability, demonstrating more reliability and consistency. In regards to college analysis, I found that certain colleges produce higher-level running backs, such as Memphis, Penn State, and Georgia. This indicates that these programs may have better running back development programs compared to other colleges. For future reserach, I find that it would be very valuable to analyze how coaching styles and team dynamics impact the success of teams in the NFL. I could also potentially expand the range my data (beyond 2018 to 2023) to reveal more accurate trends/patterns.
+
+<br><br><br>
+
+# References: 
+
+### Stacking datasets to acheive my final dataset: https://bookdown.org/rwnahhas/IntroToR/append-stack.html
+### Source for NFL data: https://www.pro-football-reference.com/years/2018/draft.htm
+### Source for fantasy football data: https://www.fantasypros.com/nfl/reports/leaders/ppr.php?year=2018
+### NFL draft process: https://operations.nfl.com/journey-to-the-nfl/the-nfl-draft/the-rules-of-the-draft/
+### How fantasy football works: https://www.draftsharks.com/kb/fantasy-points-scoring-systems
+### Variable data tables using knitr function: https://bookdown.org/yihui/rmarkdown-cookbook/kable.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
