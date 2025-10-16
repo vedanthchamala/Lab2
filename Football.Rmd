@@ -162,7 +162,7 @@ fantasy <- read_csv("ff_perf_2018_2023.csv")
 
 
 drafts <- rename(drafts, draft_round = Rnd, games_played = G, completions = Cmp, passAtt = Att, passYds = Yds, passTDs = TD, passInt = Int, rushAtt = Att.1, rushYds = Yds.1, rushTDs = TD.1, receptions = Rec, recYds = Yds.2, recTDs = TD.2, sacks = Sk, recInts = Int.1, college = College.Univ)
-
+Edit: While trying to run the above line, I got an error that the object "Rnd" doesn't exist. I realize you're trying to rename the column "draft_round" to instead be called "Rnd", but there is some error here. When I tried editing it, I then got an error for the next thing you were trying to rename, which was "games_played = G". I think you could've done all of this renaming separately so it would be easier to see where the problem is coming from, even if that would make your .rmd longer.
 drafts_clean <- select(drafts, year_drafted, Pick, Player, Pos, completions, passAtt, passYds, passTDs, passInt, rushAtt, rushYds, rushTDs, receptions, recYds, recTDs, sacks, college, recInts, draft_round)
 
 drafts_final <- write_csv(drafts_clean, "drafts_final.csv")
